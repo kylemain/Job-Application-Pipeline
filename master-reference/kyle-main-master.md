@@ -3,7 +3,7 @@
 > Source of truth for every job application. Claude reads this file in full before doing any work in the job-application-pipeline skill. Nothing here should need to be re-explained per application.
 
 ## Contact
-Kyle Main | Dallas/Ft. Worth Area | 469-545-3791 | kylemain@my.unt.edu
+Kyle Main | Dallas/Ft. Worth Area | 469-545-3791 | main.kyle87@gmail.com
 
 ## Target Positioning
 Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, equally valid lane as a **Data Engineer** (security-adjacent experience transfers cleanly to non-security data engineering roles).
@@ -38,19 +38,19 @@ Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, e
 **October 2023 – Present**
 Shorepoint is a cybersecurity consulting company supporting US federal government agencies. Note: Kyle is moving away from wanting more federal contracting work, but this experience is real and can be referenced.
 
-Three concurrent/sequential projects under this role:
+Three sequential projects under this role. As of 2026-07-27, only TSSOC is Kyle's current/active project — CDM and NNSA/SDI have both ended. Use past tense for CDM and NNSA/SDI in resumes and cover letters; present tense only for TSSOC.
 
-**1. CISA CDM (Continuous Diagnostics and Mitigation) at DOE**
-Support data ingestion and data quality efforts within an Elasticsearch and Splunk environment.
+**1. CISA CDM (Continuous Diagnostics and Mitigation) at DOE — COMPLETED**
+Supported data ingestion and data quality efforts within an Elasticsearch and Splunk environment.
 
-**2. Security Data Integration (SDI) — DOE NNSA**
+**2. Security Data Integration (SDI) — DOE NNSA — COMPLETED**
 Built an entirely new system for ingesting security data (CrowdStrike, Suricata, Zeek) into a central Elasticsearch platform and built the analytics/detection layer on top of it. Specifics:
 - Custom dashboards
 - Data transforms
 - UEBA (User and Entity Behavior Analytics) detection content built on top of the transform outputs
 - Data quality monitoring content and alerting
 
-**3. Treasury SOC (TSSOC) — current project, Threat & Research (T&R) team**
+**3. Treasury SOC (TSSOC) — CURRENT project, Threat & Research (T&R) team**
 Analytically supports Treasury's SOC for security incidents/cases. Creates and manages analytics (saved searches) in Splunk that serve as the SOC's detection and alerting content.
 
 ### Senior Threat Detection Engineer and Data Scientist — Forescout
@@ -109,6 +109,13 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 ### IaC / DevOps (NOT on current resume)
 - GitLab CI/CD as the backbone for detection-as-code pipelines described above
 - (No deep Terraform/CloudFormation claims — CI/CD via GitLab is the well-evidenced piece; don't overstate IaC beyond this unless Kyle confirms more)
+
+### Vulnerability Management / Endpoint Security (NOT on current resume — confirmed 2026-07-27, limited scope)
+- Tenable: hands-on user of the tool, and has ingested Tenable vulnerability scan logs into a SIEM/analytics platform and built analytics/detection content on top of that data (this is the differentiated angle — vulnerability *data engineering/analytics*, not vulnerability scanner administration)
+- Vulnerability analysis: has evaluated environments/systems to determine vulnerability exposure
+- Security control evaluation: has evaluated security controls/products from many vendors, but has NOT done formal risk-based control right-sizing/prioritization frameworks
+- Microsoft Intune: used only as an end-user/customer of a managed device — has NOT administered or configured Intune/MDM policy
+- Confirmed gaps (do not claim): no host-hardening experience (CIS benchmarks/baseline config design for Mac/Windows/Linux); has never owned a patch management process/strategy end-to-end
 
 ### Data Science / ML
 - Python, SQL, advanced mathematics
