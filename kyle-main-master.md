@@ -19,6 +19,7 @@ Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, e
 - Anchor negotiation language to the top third of the posted band once a fit is confirmed.
 
 ## Fit / Screening Rules (apply BEFORE building anything)
+- **Remote only.** Kyle is only interested in fully remote roles. Flag and deprioritize any posting that requires on-site, hybrid, or relocation — even if everything else about the role is a strong match. State this clearly in the fit assessment rather than building materials for an in-office/hybrid role by default.
 - **No federal government contracting roles.** Kyle is no longer interested in this space — too slow/restrictive. Flag and deprioritize any posting that is primarily a federal contracting role (agency SOC support via a contractor, cleared federal work, etc.), even if technically a strong skills match. Note this clearly in the fit assessment rather than silently building a resume for it.
 - No security clearance requirement is a plus signal, not a hard requirement — but a *cleared, on-site, agency-embedded* role should be flagged as likely a poor culture/pace fit.
 - No confidentiality masking needed anywhere — Kyle has no NDAs or IP restrictions from past employers. All employer names, agency names (DOE, CISA, NNSA, Treasury), and project names can be referenced freely in resumes and cover letters.
