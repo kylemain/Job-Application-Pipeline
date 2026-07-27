@@ -58,6 +58,8 @@ Merge resume + cover letter into a single PDF using `qpdf --empty --pages resume
 `Kyle_Main_[Company]_[Role]_[YYYY-MM-DD].pdf`
 Present both the merged PDF and the individual .docx files (docx files are useful if Kyle wants to hand-edit before submitting).
 
+Also save a plain `job_link.txt` in the application's directory containing the role title and the original posting URL — this is the source-of-truth reference back to the JD once it's been tailored into resume/cover-letter language.
+
 ### 8. Interview prep companion
 Same JD triggers a matching prep doc (markdown is fine, doesn't need to be a formal file unless Kyle asks):
 - 5-8 likely behavioral questions specific to the role level (IC vs. lead) and domain
