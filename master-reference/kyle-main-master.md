@@ -4,6 +4,15 @@
 
 ## Contact
 Kyle Main | Dallas/Ft. Worth Area | 469-545-3791 | main.kyle87@gmail.com
+Home address (for application forms, not shown to employers/not on resume): 5829 Humber Ln, Aubrey, TX 76227
+GitHub: https://github.com/kylemain (use for application forms with a dedicated GitHub/portfolio field)
+
+## Voluntary EEO / Self-Identification (for application forms only — never put any of this on a resume or cover letter)
+- Gender: Male
+- Race/ethnicity: Caucasian/White, not Hispanic or Latino
+- Veteran status: Not a veteran
+- Disability status: No disability
+- Work authorization: Does not require visa sponsorship, authorized to work in the US
 
 ## Target Positioning
 Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, equally valid lane as a **Data Engineer** (security-adjacent experience transfers cleanly to non-security data engineering roles).
@@ -28,7 +37,7 @@ Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, e
 - One-page resume by default (senior IC/lead roles — density matters more than exhaustive history; older/less relevant roles get compressed).
 - Reverse chronological.
 - Lead the skills section with whatever's most relevant to the specific JD (reorder per application — don't just copy the master list top to bottom).
-- Cover letter: one page. Sharp opening → 1-2 proof-point paragraphs tied directly to JD requirements → honest gap acknowledgment if a real gap exists → one-line close.
+- Cover letter: one page. Sharp opening → 1-2 proof-point paragraphs tied directly to JD requirements → one-line close. Do not call out skill/experience gaps in the cover letter — keep it entirely proof-point/strengths-focused. (Gaps can still be noted honestly in ats_notes.md for Kyle's own awareness — just not surfaced to the employer in the letter itself.)
 
 ---
 
@@ -36,6 +45,7 @@ Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, e
 
 ### Senior Cybersecurity Engineer — Shorepoint
 **October 2023 – Present**
+**Location (for application forms): Remote — worked from home in the Dallas/Ft. Worth area.**
 Shorepoint is a cybersecurity consulting company supporting US federal government agencies. Note: Kyle is moving away from wanting more federal contracting work, but this experience is real and can be referenced.
 
 Three sequential projects under this role. As of 2026-07-27, only TSSOC is Kyle's current/active project — CDM and NNSA/SDI have both ended. Use past tense for CDM and NNSA/SDI in resumes and cover letters; present tense only for TSSOC.
@@ -55,10 +65,12 @@ Analytically supports Treasury's SOC for security incidents/cases. Creates and m
 
 ### Senior Threat Detection Engineer and Data Scientist — Forescout
 **August 2022 – October 2023**
+**Location (for application forms): Remote — worked from home in the Dallas/Ft. Worth area.**
 Cysiv was acquired by Forescout in August 2022; this is a continuation of the Cysiv role below. Senior member of the data science and threat detection engineering team creating content to detect cyber threats in massive customer data — cloud-based big data tools, signature/behavioral/statistical/time-series/ML-based detection rules.
 
 ### Threat Detection Engineer and Data Scientist — Trend Micro/Cysiv
 **September 2018 – August 2022**
+**Location (for application forms): On-site — Irving, TX (Dallas/Ft. Worth metroplex).**
 Cysiv started as an internal Trend Micro team project, spun out as its own company in 2020. Very early hire — built out the rules engine, detection content, and data engineering for the startup.
 - Data engineering/pipelining for 220+ unique log data sources
 - Built detection content in a next-gen cloud-based SIEM
@@ -73,6 +85,7 @@ Cysiv started as an internal Trend Micro team project, spun out as its own compa
 
 ### Security Data Scientist — Experian
 **January 2015 – January 2018**
+**Location (for application forms): On-site — Allen, TX (Dallas/Ft. Worth metroplex).**
 Provided analytical support/guidance to Information Security teams. Analyzed large datasets to develop custom models/algorithms supporting identification and handling of emerging threats.
 - DNS-based detection and mitigation of malware infections on a network
 - Security log data analysis for discovery of anomalous behavior
@@ -142,6 +155,12 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 - (In progress, unconfirmed on resume) A Cloud Guru's Elastic Certified Engineer exam prep course
 
 No certifications currently in active progress beyond what's listed.
+
+## Security Clearances
+Include this on resumes in the Education/Certifications area (or its own "Security Clearances" line) — strong signal for federal/security-adjacent roles.
+- **Top Secret** — current, sponsored by Treasury (active, tied to the TSSOC engagement)
+- **DOE Q Clearance** — held (DOE)
+- **Public Trust** — held, sponsored by DOE
 
 ## Memberships
 Data Science and Machine Learning Community · American Institute of Physics (AIP) · Optical Society of America (OSA) · IEEE Student Member, Photonics Society subgroup

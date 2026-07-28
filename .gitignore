@@ -2,3 +2,9 @@
 .idea/
 __pycache__/
 *.pyc
+.claude/
+
+# LibreOffice/editor lock files and doc-conversion temp/scratch artifacts
+.~lock.*#
+*.tmp
+*_page-*.png
