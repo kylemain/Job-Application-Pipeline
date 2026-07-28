@@ -1,2 +1,4 @@
 Security Engineer, Detection Response — Vercel
 https://www.dice.com/job-detail/07fc4d95-254e-431a-8be8-6d970d1d10ff
+
+SUBMITTED 2026-07-28 via Greenhouse (job-boards.greenhouse.io, standard non-iframe form). JD listed as "Hybrid - SF/NYC/London/Berlin" but body text clarifies role is fully remote for candidates beyond commuting distance of those offices. Answered "No" to the required "willing to commit to hybrid schedule" screening question — honest given Kyle's remote-only, non-relocating status; worth flagging to Kyle that this could be an auto-screen-out depending on how Vercel's ATS treats that answer.

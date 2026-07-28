@@ -27,8 +27,17 @@ Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, e
 - **Target floor: $170,000+.** Flag any posting whose disclosed band tops out below this, or whose midpoint is meaningfully below it, before doing any other work on the application.
 - Anchor negotiation language to the top third of the posted band once a fit is confirmed.
 
+## Company Exclusion List (check FIRST, before any other screening)
+Kyle does not want applications built or submitted to these companies, for any role, under any circumstances. If a posting is from one of these companies, stop immediately — do not run fit/salary screening, do not build resume/cover letter materials, do not apply. Just tell Kyle the posting was skipped because the company is on the exclusion list.
+- Sophos
+- Binary Defense
+- Shorepoint
+- Dropzone AI
+
+To add a company: Kyle can just say so at any point ("add X to the exclusion list") — update this list directly, no need to ask why.
+
 ## Fit / Screening Rules (apply BEFORE building anything)
-- **Remote only.** Kyle is only interested in fully remote roles. Flag and deprioritize any posting that requires on-site, hybrid, or relocation — even if everything else about the role is a strong match. State this clearly in the fit assessment rather than building materials for an in-office/hybrid role by default.
+- **Remote only.** Kyle is only interested in fully remote roles. Flag and deprioritize any posting that requires on-site, hybrid, or relocation — even if everything else about the role is a strong match. State this clearly in the fit assessment rather than building materials for an in-office/hybrid role by default. Note: some postings list a "Hybrid - [cities]" header/location tag but the JD body clarifies the role is fully remote for candidates outside commuting distance of those specific offices — read the full body text before flagging as hybrid, and if an application form asks a screening question like "willing to commit to this hybrid schedule," answer No/decline consistent with Kyle's remote-only status (flag it to Kyle as a possible auto-screen-out risk rather than silently answering Yes to get through the form).
 - **No federal government contracting roles.** Kyle is no longer interested in this space — too slow/restrictive. Flag and deprioritize any posting that is primarily a federal contracting role (agency SOC support via a contractor, cleared federal work, etc.), even if technically a strong skills match. Note this clearly in the fit assessment rather than silently building a resume for it.
 - No security clearance requirement is a plus signal, not a hard requirement — but a *cleared, on-site, agency-embedded* role should be flagged as likely a poor culture/pace fit.
 - No confidentiality masking needed anywhere — Kyle has no NDAs or IP restrictions from past employers. All employer names, agency names (DOE, CISA, NNSA, Treasury), and project names can be referenced freely in resumes and cover letters.
