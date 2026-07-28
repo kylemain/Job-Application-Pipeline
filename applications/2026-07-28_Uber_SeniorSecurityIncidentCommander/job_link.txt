@@ -1,0 +1,14 @@
+Senior Security Incident Commander — Uber
+https://jobs.uber.com/en/jobs/154537/
+Locations: San Francisco, CA / Seattle, WA / Sunnyvale, CA
+Salary: $180,000–$200,000/year base, same across all listed locations. Uber also offers bonus/equity. Hybrid — unless approved for full remote work, employees must spend at least 50% of time in-office.
+
+SUBMITTED 2026-07-28 via Uber Oracle Cloud HCM ATS (iaziqy.fa.ocs.oraclecloud.com). Confirmed via "Thank you for your job application" toast, job 154537, Applied on 07/28/2026.
+
+NOTE — unusual status: unlike the other two Uber applications submitted the same day (which immediately show "Status: Under Consideration" under Active Job Applications), this one appeared under "Inactive Job Applications" with "Status: Not Selected" within seconds of submitting, and persisted after a full page refresh. This does not appear to be a caching artifact. Flagged to Kyle — possible causes: an ATS auto-triage rule, a role-specific rejection filter, or a genuine system quirk. Worth Kyle checking his email/Uber careers portal directly to confirm this isn't an immediate auto-reject.
+
+ATS quirks observed on this application (same browser session as the other two Uber applications this day):
+- User (Kyle) completed email verification himself this time (entered the code from Gmail directly) before the assistant could ask — no Gmail search attempted for this one.
+- Same recurring dark overlay artifact and Last-Name-clears-on-reimport quirks seen on prior applications; worked around the same way.
+- Both education entries (UNT Masters 12/2013, Ball State Bachelor's 05/2011) required delete-and-re-add, saved cleanly with no "Fields to fix" errors this time.
+- All Diversity Information and Application Question toggles verified correct on the full re-verification pass before Submit — no repeat of the subsidiaries-toggle validation bug from the previous application.

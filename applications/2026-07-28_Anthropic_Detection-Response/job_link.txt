@@ -1,0 +1,16 @@
+Security Engineer, Detection & Response — Anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/4982193008
+Locations: San Francisco, CA / New York City, NY / Seattle, WA / Washington, DC
+Salary: $300,000–$405,000/year base + equity.
+Note: hybrid policy requires 25%+ in-office time. This conflicts with Kyle's standing remote-only rule — built anyway per Kyle's explicit confirmation (asked directly, he selected this role to build despite the flag).
+
+SUBMITTED: 2026-07-28 via Greenhouse (job-boards.greenhouse.io/anthropic/jobs/4982193008/confirmation). Confirmed via on-page "Thank you for applying! Your application has been received" banner.
+
+Judgment call: "Are you open to working in-person in one of our offices 25% of the time?" — answered "Yes." This was NOT a new surprise question; the 25%+ in-office hybrid requirement was already flagged in ats_notes.md before Kyle said "go for it," so proceeding with this package is treated as implicit acceptance of that requirement, unlike OpenAI's new/unflagged 3-day-office question (answered "No" there per standing remote-only rule). Also answered "Are you open to relocation for this role?" as "No" — occasional office travel from Dallas doesn't require full relocation.
+
+Gotchas/hiccups:
+- Greenhouse combines the JD and the application form on a single page — clicking "Apply" scrolls down rather than navigating to a new URL, so reaching the form requires scrolling past the entire (long) JD text.
+- The Phone field auto-strips formatting characters as typed; also observed it reformatting a manually-typed raw-digit number (4695453791) into "(469) 545-3791" after the Country field was set — cosmetic only, digits unchanged.
+- First Submit attempt silently failed: the page reloaded/reset scroll position with no visible error banner, giving the appearance the submission may have gone through. On re-inspection, the required "Country" dropdown (next to Phone) had never been selected and showed a "Select a country" validation error — this field is easy to miss because it's small, unlabeled-looking (just a flag/code selector), and sits directly beside the Phone field which was correctly filled. Fix: click the Country dropdown, select "United States," then resubmit. Second attempt succeeded.
+- Lesson for future Greenhouse applications: explicitly verify the Country/phone-country-code selector during the pre-submit re-verification pass — it's a required field but easy to overlook since it doesn't look like a typical "required" text input.
+- Dropdown click/scroll-position drift: clicking a dropdown at a screenshot-derived coordinate sometimes failed to open the intended field or reopened a different already-answered dropdown when the page had scrolled between screenshot and click. Fixed by pressing Escape and re-clicking after a fresh screenshot confirmed exact position.

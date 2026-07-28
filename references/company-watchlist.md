@@ -22,6 +22,16 @@ data science/ML security, security engineering management/lead, and data enginee
 - Databricks — https://www.databricks.com/company/careers/open-positions
 - Snowflake — https://careers.snowflake.com/us/en/search-results?keywords=security
 
+## AI Labs
+
+- OpenAI — https://openai.com/careers/search/ (search "security engineer", "detection & response"; applications go through Ashby at jobs.ashbyhq.com/openai — added 2026-07-28 after applying to two D&R reqs)
+- Anthropic — https://www.anthropic.com/jobs (search "security engineer", "detection & response"; applications go through Greenhouse at job-boards.greenhouse.io/anthropic — added 2026-07-28 after applying to two D&R reqs. Note: Anthropic's security roles have consistently required 25%+ in-office time, conflicting with Kyle's remote-only rule — still worth scanning and flagging per his explicit prior decision to proceed anyway on comparable postings)
+- xAI — https://job-boards.greenhouse.io/xai (search "security engineer", "detection & response"; applications go through Greenhouse. Had an open D&R req (including a Japan-based one) as of 2026-07-27, but didn't clear the remote-only/salary-floor bars as cleanly as the OpenAI/Anthropic reqs at the time — re-check each scan since roles/locations change)
+- Google DeepMind — https://deepmind.google/about/careers/ (search "security engineer", "detection & response"; checked 2026-07-27, had security roles but nothing that cleared remote-only + salary-floor cleanly — re-check each scan)
+- Scale AI — https://scale.com/careers (search "security engineer", "detection & response"; checked 2026-07-27, same result as above — re-check each scan)
+- Perplexity — https://www.perplexity.ai/careers (search "security engineer", "detection & response"; checked 2026-07-27, same result as above — re-check each scan)
+- Mistral — https://mistral.ai/careers (search "security engineer", "detection & response"; checked 2026-07-27, same result as above — re-check each scan)
+
 ## Cybersecurity / Detection & Response vendors
 
 - CrowdStrike — https://www.crowdstrike.com/careers/

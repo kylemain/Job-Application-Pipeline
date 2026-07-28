@@ -1,0 +1,10 @@
+Security Engineer, Insider Threat Detection & Response — OpenAI
+https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/
+Locations: San Francisco, CA / New York City, NY / Seattle, WA / Remote - US (remote confirmed)
+Salary: $230,000–$385,000/year base + equity.
+
+SUBMITTED: 2026-07-28 via Ashby (jobs.ashbyhq.com/openai/f84dbb5c-6008-40f1-b388-1434d159d4a4/application). Confirmed via on-page "Success — Your application was successfully submitted" banner.
+
+Judgment call: same "Are you able to work from our US office three days per week?" screening question as the OpenAI D&R req. Answered "No" per Kyle's standing remote-only rule.
+
+Gotchas: Autofill from resume again did not populate any fields — manual entry required throughout. Same 5-applications/180-days limit banner. Learned from the prior OpenAI D&R submission that the Email field can silently fail form validation even when it visually displays the correct value — pre-emptively retyped the email and blurred the field before the first submit attempt this time, and it went through cleanly on the first try.

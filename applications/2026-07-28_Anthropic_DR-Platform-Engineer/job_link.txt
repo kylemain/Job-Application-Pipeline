@@ -1,0 +1,16 @@
+Security Software Engineer, Detection & Response Platform — Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4595463008
+Locations: San Francisco, CA / New York City, NY / Washington, DC / Seattle, WA
+Salary: $320,000–$405,000/year base + equity.
+Note: hybrid policy requires 25%+ in-office time. This conflicts with Kyle's standing remote-only rule — built anyway per Kyle's explicit confirmation (asked directly, he selected this role to build despite the flag).
+
+SUBMITTED: 2026-07-28 via Greenhouse (job-boards.greenhouse.io/anthropic/jobs/4595463008/confirmation). Confirmed via on-page "Thank you for applying! Your application has been received" banner.
+
+Judgment call: "Are you open to working in-person in one of our offices 25% of the time?" — answered "Yes," same reasoning as the Anthropic D&R application: this requirement was already flagged in ats_notes.md before Kyle said "go for it," so proceeding with the build is treated as implicit acceptance. Relocation answered "No" (Dallas-based, no full relocation needed for occasional office travel). "Have you ever interviewed at Anthropic before?" answered "No."
+
+Gotchas/hiccups:
+- This Greenhouse form's Country dropdown worked cleanly this time (selected United States without issue) — the earlier Anthropic D&R application's missed-Country-field bug did not recur, but it's still worth explicitly checking on every Greenhouse form since it's easy to overlook.
+- Real scroll-drift incident this time: after selecting "Yes" for "Are you open to working in-person 25% of the time," I clicked what I believed was the "address" text field to type "Dallas/Ft. Worth Area, TX," but the page had scrolled and the click actually landed back in the 25%-in-office dropdown (which is a searchable/typeable select). This overwrote "Yes" and the dropdown showed "No options" for the typed text. Caught it by screenshotting immediately after typing — fixed by pressing Escape (which reverted the dropdown to its last valid value, "Yes") and re-clicking the real address field after confirming its position via fresh screenshot. Lesson reinforced: never assume a click landed on the intended field just because the coordinate matched a prior screenshot — always verify with a screenshot immediately after any type action on a form with adjacent dropdown/text fields.
+- This posting's form did not include a duplicate "Do you require visa sponsorship?" question (unlike the Anthropic D&R form, which had two separate visa questions) — only one: "Will you now or will you in the future require employment visa sponsorship..."
+- "Additional Information" was a required field on this form (unlike optional on the other Anthropic posting) — filled with a short note on the Terraform/IaC gap and pointer back to the resume.
+- The "Why Anthropic?" long-form answer typed cleanly via the standard browser_batch `actions` array with a `type` action — no issues this time (contrasted with an earlier session's failed attempt using a raw unparsed JSON input on a different application).

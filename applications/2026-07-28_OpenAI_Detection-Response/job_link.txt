@@ -1,0 +1,13 @@
+Security Engineer, Detection and Response — OpenAI
+https://openai.com/careers/security-engineer-detection-and-response-san-francisco/
+Locations: San Francisco, CA / New York City, NY / Seattle, WA / Remote - US (remote confirmed)
+Salary: $293,000–$385,000/year base + equity.
+
+SUBMITTED: 2026-07-28 via Ashby (jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c/application). Confirmed via on-page "Success — Your application was successfully submitted" banner.
+
+Judgment call: Ashby form asked "Are you able to work from our US office three days per week?" — a screening question not present in the original JD text (which lists Remote - US as a location option). Answered "No" per Kyle's standing remote-only rule. Worth knowing this could work against the application if OpenAI is prioritizing hybrid candidates for this req.
+
+Gotchas/hiccups:
+- Ashby's "Autofill from resume" did NOT populate any fields on upload (Legal Name, Email, Phone all stayed blank placeholders) — inconsistent with prior documented behavior where it silently pre-fills. Had to manually enter every field.
+- Ashby application-limit banner: "Candidates may not apply more than 5 times in any 180 day span" for this employer.
+- First Submit attempt failed with "Your form needs corrections — Missing entry for required field: Email," even though the Email field visually displayed the correct value (main.kyle87@gmail.com) and had been confirmed correct in a full re-verification pass immediately beforehand. Fix: clicked into the field, retyped the same email, clicked away to blur, then resubmitted — succeeded on the second attempt. Likely a client-side form-state bug where a value set without a proper input/change event doesn't register as "filled" even though it renders correctly.

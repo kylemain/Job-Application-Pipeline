@@ -1,0 +1,15 @@
+Senior Staff Security Engineer - (Agentic Systems) — Uber
+https://jobs.uber.com/en/jobs/154908/
+Locations: San Francisco, CA / Seattle, WA / Sunnyvale, CA / New York City, NY
+Salary: $267,000–$297,000/year base, same across all listed locations. Uber also offers bonus/equity. Hybrid — unless approved for full remote work, employees must spend at least 50% of time in-office.
+
+SUBMITTED 2026-07-28 via Uber Oracle Cloud HCM ATS (iaziqy.fa.ocs.oraclecloud.com). Confirmed via "Thank you for your job application" toast + My Applications page showing "Status: Under Consideration", job 154908, Applied on 07/28/2026.
+
+ATS quirks observed on this application:
+- Email verification code screen appeared mid-flow (right after email/terms entry), not just at final Submit.
+- The "Verify" button rendered visually stuck/covered by a dark overlay; clicking it (even via element ref) produced zero network requests. Workaround: click into the last OTP digit box and press Return — this submitted the code successfully.
+- Gmail search could not locate the verification email despite it existing in the inbox (recurring blind spot across all Uber applications this session) — had to have the code supplied directly.
+- A recurring, unexplained dark rectangular overlay (fixed viewport position, roughly center-screen) intermittently covered form elements (Major field, Add Education button, Ethnicity dropdown) and blocked coordinate-based clicks/typing without any visible cause or response to Escape. Workaround: use form_input (for text fields) or JavaScript-driven button.click() (for buttons) instead of coordinate clicks when this occurs.
+- Last Name field again cleared after resume re-import (same known quirk) — refilled manually with "Main".
+- Education entries again required delete-and-re-add (never in-place edit) to avoid "Fields to fix" errors; both entries (UNT Masters 12/2013, Ball State Bachelor's 05/2011) saved cleanly this way.
+- No post-Submit verification step was required this time — straight to confirmation.

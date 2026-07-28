@@ -1,0 +1,14 @@
+Staff Security Engineer - Vulnerability Management — Uber
+https://jobs.uber.com/en/jobs/157227/
+Locations: Seattle, WA / Sunnyvale, CA / San Francisco, CA / New York City, NY
+Salary: $232,000–$258,000/year base, same across all listed locations. Uber also offers bonus/equity. Hybrid — unless approved for full remote work, employees must spend at least 50% of time in-office.
+
+SUBMITTED 2026-07-28 via Uber Oracle Cloud HCM ATS (iaziqy.fa.ocs.oraclecloud.com). Confirmed via "Thank you for your job application" toast + My Applications page showing "Status: Under Consideration", job 157227, Applied on 07/28/2026.
+
+ATS quirks observed on this application (new browser tab/session, separate from the Agentic Systems application):
+- Email verification code screen appeared again on first email/terms entry; Gmail search again could not surface the code email despite trying multiple targeted queries (blank query, is:unread, "Uber", from:no-reply@recruit.uber.com, in:anywhere including trash) — confirmed this is a hard blind spot for this sender, not a query-phrasing issue. Kyle supplied the code directly.
+- The "Verify" button worked normally this time (no stuck-overlay issue) after typing the code into the first OTP box.
+- Same recurring dark rectangular overlay artifact intermittently covered form elements (Major field, Ethnicity dropdown) at a fixed viewport position — worked around via form_input/JS clicks as before.
+- Last Name field cleared again after resume re-import — refilled manually.
+- Both education entries again required delete-and-re-add (never in-place edit); saved cleanly as "Physics / University of North Texas 12/2013" and "Physics / Ball State University 05/2011".
+- New quirk: the "Are you currently employed by one of Uber's Subsidiaries?" Yes/No toggle showed "No" as visually selected but the form's client-side validation still flagged it as an unanswered required field on Submit ("This info is required"), twice in a row. Root cause unclear (possibly a default-highlighted-but-not-actually-selected UI state). Fix: click the button again to explicitly toggle it, then re-verify before re-submitting. Also note: an errant JS-driven .click() on a button matched via text search hit the wrong toggle (the "12 months" question) and silently flipped it to "No" — always verify the actual answer via screenshot after any JS-based interaction with toggle-button groups, don't trust aria-pressed alone.

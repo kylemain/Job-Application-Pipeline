@@ -109,14 +109,30 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 - MITRE ATT&CK
 - Security detection content development (signature, statistical, behavioral, ML-based)
 - Cloud/distributed big data: PySpark, Dataproc, BigQuery, Dataflow
-- Cloud security: AWS, GCP, Azure
+- Cloud security: AWS, GCP, Azure (Azure specifically confirmed 2026-07-28 as Microsoft Sentinel/Defender API orchestration only — no deeper Azure-native tooling like Azure AD/Entra ID or Azure Monitor; don't overstate Azure depth beyond that API-orchestration scope)
 - Version control: Git
 
 ### Multi-SIEM Detection-as-Code & Orchestration (NOT on current resume — significant differentiator, surface prominently for detection engineering / security leadership roles)
 - Built rule/content orchestration across many SIEM platforms via their native APIs: **Microsoft Sentinel, Microsoft Defender, Google SecOps (Chronicle), Splunk, CrowdStrike, SentinelOne, Sumo Logic, Palo Alto XSIAM, Devo**, plus prior experience with **ArcSight**
 - Developed reusable per-technology adapters containing all interaction methods for each SIEM's API — not just rule management, but listing alerts, tables, schemas, and other platform objects
+- **Created and managed API tokens, roles, and permissions across these SIEM platforms** as part of building the orchestration framework — real, hands-on access-management/identity work at the API level (confirmed 2026-07-28)
+- **Implemented multithreading** to orchestrate detection rule deployment across multiple customers in parallel via SIEM APIs, within the CI/CD pipeline (confirmed 2026-07-28) — real concurrency/parallelization experience, not just sequential scripting
 - Full CI/CD pipeline implementation for detection-as-code, run in **GitLab**
+- **Formally tracks detection rule quality metrics** (coverage, precision/false-positive rate) **and uses staged/safe rollout before full production deployment** (confirmed 2026-07-28) — real measurement/quality-loop and safe-rollout practice, not just ad hoc rule writing
+- **Writes automated tests (unit/integration) for the detection-as-code pipeline itself** (confirmed 2026-07-28) — real test-driven development practice applied to the orchestration framework, not just to detection rules
 - This is essentially building an internal detection-management platform/abstraction layer across heterogeneous SIEM vendors — a strong signal for detection engineering leadership, security platform engineering, or MSSP/MDR-style roles
+
+### Cloud IAM (confirmed 2026-07-28 — NOT on current resume)
+- Has implemented IAM (identity and access management) policies/roles in both AWS and GCP — real, hands-on experience, though at a smaller organizational scale than large enterprise/hyperscale account-governance programs. Fair to claim IAM implementation experience directly; frame at the scope Kyle actually worked at rather than implying enterprise-wide architecture ownership unless a specific role's interview requires more detail.
+
+### Distributed Systems / Streaming (confirmed 2026-07-28 — NOT on current resume)
+- Familiar with Kafka and Flink; has worked in an environment that used Flink jobs (not primary ownership/architecture of the Flink deployment, but real hands-on exposure)
+
+### Serverless / Event-Driven Architecture (confirmed 2026-07-28 — NOT on current resume)
+- Has built event-driven enrichment on Google Cloud (GCP) — i.e., serverless functions triggered by incoming events that enrich data before it's written/forwarded downstream. Real, hands-on serverless experience on GCP specifically; not confirmed on AWS Lambda or Azure Functions. Fair to claim GCP serverless/event-driven enrichment experience directly.
+
+### Leadership / Team Lead Experience (confirmed 2026-07-28 — NOT on current resume, no formal leadership title held)
+- Has served in a team-lead capacity and led sprints, but has never held a formal "leadership" job title or people-management role. Fair to describe as team-lead/sprint-lead experience; do not claim formal management title or direct-report headcount unless Kyle confirms specifics.
 
 ### GenAI / LLM Applications for Security (NOT on current resume — differentiator, especially for security-AI hybrid roles)
 - Prompt engineering for security use cases: analyzing security data, identifying false positives, generating new detection content/rules
@@ -127,6 +143,7 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 - Docker: managed containers and images, built reusable custom images
 - Used containers to test detection content against real log data (reproducible detection-testing environments)
 - Level: comfortable, hands-on user — not claiming deep Kubernetes architecture experience unless a specific role requires probing further
+- **Kubernetes (confirmed 2026-07-28):** has worked on a platform that used Kubernetes for container orchestration, but did not manage/administer the Kubernetes deployment itself (no cluster-admin, node/control-plane ownership, or K8s-specific detection engineering). Fair to claim real, hands-on exposure to a K8s-orchestrated platform as a user of that platform — not cluster administration or K8s security architecture. Frame as "worked within a Kubernetes-orchestrated environment" rather than "managed Kubernetes" or "K8s security operations."
 
 ### IaC / DevOps (NOT on current resume)
 - GitLab CI/CD as the backbone for detection-as-code pipelines described above
