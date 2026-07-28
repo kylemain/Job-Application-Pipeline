@@ -45,6 +45,12 @@ data science/ML security, security engineering management/lead, and data enginee
 - Cybereason — https://www.cybereason.com/careers
 - Trellix — https://www.trellix.com/about/careers/
 - HackerOne — https://www.hackerone.com/careers (already have one open application here — dedupe by exact posting URL, not by company, since a second/different role there is still fair game)
+- Corelight — https://corelight.com/company/careers/ (network detection & response, built on Zeek — direct overlap with Kyle's Zeek/Suricata detection background)
+- Exaforce — https://www.exaforce.com/careers (agentic AI SOC platform; $125M Series B, added 2026-07-27)
+- Armis — https://www.armis.com/armis-careers/ (AI-driven asset intelligence & threat detection across IT/OT/IoT; $200M round at $4.4B valuation)
+- Permiso Security — https://permiso.io/careers (identity threat detection & response / ITDR, including AI agent identity security)
+- Radiant Security — https://radiantsecurity.ai/careers/ (AI-native SOC alert triage and investigation)
+- Orca Security — https://orca.security/about/careers/ (cloud security/CNAPP, agentless — Wiz competitor)
 
 ## Maintenance notes
 
