@@ -45,7 +45,7 @@ Give an honest fit assessment (not just a cheerleading summary):
 - Build as .docx per the docx skill (`/mnt/skills/public/docx/SKILL.md`) — read that skill before generating
 
 ### 4. Cover letter
-One page: sharp opening tied to the specific role/company → 1-2 proof-point paragraphs mapped directly to the JD's top requirements, pulling from master doc specifics (real project names, real numbers — e.g., "2,300+ detection rules across the MITRE ATT&CK matrix") → honest gap acknowledgment if there's a real one → one-line close. No confidentiality masking needed — DOE, CISA, NNSA, Treasury, Shorepoint, Cysiv, Trend Micro, Forescout, Experian can all be named directly.
+One page: sharp opening tied to the specific role/company → 1-2 proof-point paragraphs mapped directly to the JD's top requirements, pulling from master doc specifics (real project names, real numbers — e.g., "2,300+ detection rules across the MITRE ATT&CK matrix") → one-line close. Do not call out skill/experience gaps in the cover letter — keep it entirely proof-point/strengths-focused. (Real gaps can still be noted honestly in `ats_notes.md` for Kyle's own awareness — just not surfaced to the employer in the letter itself.) No confidentiality masking needed — DOE, CISA, NNSA, Treasury, Shorepoint, Cysiv, Trend Micro, Forescout, Experian can all be named directly.
 
 ### 5. ATS optimization pass
 Run the tailored resume against the JD per `references/ats-optimization.md`: keyword coverage check, formatting/parseability check, and a summary of what's covered vs. still missing.
@@ -59,6 +59,10 @@ Merge resume + cover letter into a single PDF using `qpdf --empty --pages resume
 Present both the merged PDF and the individual .docx files (docx files are useful if Kyle wants to hand-edit before submitting).
 
 Also save a plain `job_link.txt` in the application's directory containing the role title and the original posting URL — this is the source-of-truth reference back to the JD once it's been tailored into resume/cover-letter language.
+
+Once Kyle confirms an application was actually submitted (whether he applied himself or Claude did it with his go-ahead), append a line to that folder's `job_link.txt`:
+`SUBMITTED YYYY-MM-DD via [method, e.g. "Indeed smart apply" / "Ashby" / "Kyle, self-submitted"]`
+This makes each folder self-describing at a glance, in addition to the matching `SUBMITTED` line already logged in `applications/_lib/seen_jobs.log`. Don't backfill this for applications submitted before this rule existed unless Kyle asks — just apply it going forward.
 
 ### 8. Interview prep companion
 Same JD triggers a matching prep doc (markdown is fine, doesn't need to be a formal file unless Kyle asks):

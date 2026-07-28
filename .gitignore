@@ -8,3 +8,4 @@ __pycache__/
 .~lock.*#
 *.tmp
 *_page-*.png
+*_page-*.jpg
