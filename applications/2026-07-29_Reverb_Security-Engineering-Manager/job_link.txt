@@ -1,3 +1,12 @@
 Security Engineering Manager — Reverb
 https://ats.rippling.com/reverb-careers/jobs/86cf2577-a690-4963-9d1d-300ea0e1f8e2
 Location: Hybrid - Chicago (1 day/week), open to fully-remote US candidates "for the right fit". Salary: $171,000-$223,000 base (Chicago-anchored band).
+
+SUBMITTED 2026-07-29 — applied via Rippling ATS (ats.rippling.com/reverb-careers). Resume + cover letter uploaded, contact info filled in.
+
+Gotchas/hiccups:
+- Rippling's "Apply now" button on the JD page didn't open the application form on first click — it just re-rendered the same JD scroll position. There are two "Apply now" buttons on the page (one near the top, one further down near the pay range/footer); the actual `/apply?step=application` form only loaded after clicking the second one. Not iframe-locked, unlike Airbnb's Greenhouse embed — standard fillable DOM form once you're on the right page.
+- Résumé upload auto-parsed and correctly filled "Current company" as "Shorepoint" — same auto-fill behavior as Snowflake's Ashby form; worth checking on every résumé-parsing ATS rather than assuming the field is blank.
+- Real judgment-call question on this form: "If applicable, will you be willing to relocate for this position with minimal assistance?" (optional, no asterisk). Flagged to Kyle given the hybrid-Chicago risk already noted in ats_notes.md — his call was to leave it blank rather than answer Yes/No.
+- I didn't have Kyle's saved EEO answers loaded yet at this point in the day, so the EEO section (gender/race/Hispanic-Latino/veteran/disability) was left blank/unanswered on this application — all optional fields, no asterisks, so it didn't block submission, but it's inconsistent with the Snowflake and Airbnb applications submitted later the same day, which did use Kyle's confirmed EEO answers from the master reference doc. Worth knowing if this one's ATS data is ever compared against the others.
+- Text-message consent radio button ("Yes"/"No" to receiving texts from Reverb) defaulted to neither selected — had to explicitly click "No" or the Apply button stayed disabled.

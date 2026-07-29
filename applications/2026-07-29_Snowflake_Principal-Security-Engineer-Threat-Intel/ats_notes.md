@@ -23,3 +23,8 @@ Salary ($249,000–$311,000) clears the floor comfortably. Remote, United States
 
 ## Formatting
 Single-column, standard section headers (Core Skills, Professional Experience, Education & Certifications), no tables/text boxes/icons, Arial throughout, exported as text-layer PDF.
+
+## Application quirks / gotchas (2026-07-29)
+- Snowflake's "Apply Now" button on careers.snowflake.com redirects out to a separate Ashby-hosted board (jobs.ashbyhq.com/snowflake/...) — same ATS family as HackerOne's listing, and fully fillable via standard browser automation (no iframe lock, unlike Airbnb's Greenhouse embed).
+- No EEO/gender/race/veteran/disability section on this form at all — Snowflake's Ashby form skips voluntary demographic questions entirely. Instead it has several US-export-control/legal questions: work-authorization sponsorship (answered No), prior Snowflake employment (No), current work authorization (Yes), "U.S. person" status for export-control purposes (answered "I am a U.S. person"), and SEC/PwC auditor-independence conflict check (answered No — never employed by PwC). All answered directly from the master reference doc's confirmed facts (work authorization / EEO section).
+- "Where have you most recently worked?" free-text field auto-populated as "Shorepoint" from resume parsing — confirmed correct, left as-is.

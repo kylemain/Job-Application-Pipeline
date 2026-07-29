@@ -20,3 +20,9 @@ This is a **hybrid role** — Chicago office one day/week (Tuesdays), with local
 
 ## Formatting
 Single-column, standard section headers, no tables/text boxes/icons, Arial throughout, exported as text-layer PDF.
+
+## Application quirks / gotchas (2026-07-29)
+- Rippling's "Apply now" button on the JD page doesn't open the form directly — the first click just re-renders the same JD scroll position; the actual `/apply?step=application` form only loads after clicking the second "Apply now" button further down the page (near the pay range/footer). Not iframe-locked, unlike Airbnb's Greenhouse embed — standard DOM form, fully fillable via browser automation.
+- Résumé upload auto-parsed and correctly filled "Current company" as "Shorepoint" — worth double-checking this auto-fill on future Rippling applications rather than assuming it's blank.
+- Form included a real judgment-call question: "If applicable, will you be willing to relocate for this position with minimal assistance?" (not required/no asterisk). Flagged to Kyle per the hybrid-Chicago risk noted above — Kyle's call was to leave it blank rather than answer Yes/No.
+- EEO section (gender/race/Hispanic-Latino/veteran status/disability) was left blank/unanswered on this application — all optional, no asterisks. Text-message consent was set to "No."
