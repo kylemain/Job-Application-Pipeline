@@ -134,6 +134,13 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 ### Leadership / Team Lead Experience (confirmed 2026-07-28 — NOT on current resume, no formal leadership title held)
 - Has served in a team-lead capacity and led sprints, but has never held a formal "leadership" job title or people-management role. Fair to describe as team-lead/sprint-lead experience; do not claim formal management title or direct-report headcount unless Kyle confirms specifics.
 
+### Threat Intelligence Integration (confirmed 2026-07-29 — NOT on current resume, real differentiator for CTI/threat-intel-adjacent roles)
+- Extensive experience integrating threat intelligence into detection content — using CTI (indicators, TTPs, actor/campaign context) to inform and tune detection rule logic, not just passively consuming feeds.
+- Has used threat intel as enrichment on alerts — enriching security alerts/cases with threat intel context (actor attribution, known-bad indicators, campaign association) to speed up triage and investigation.
+- Also uses threat intel directly for his own research during investigations and false-positive analysis — pulling CTI to validate/invalidate whether an alert reflects real adversary activity vs. benign behavior.
+- Exposed to many CTI sources: paid/commercial feeds, open-source intelligence, and home-grown research — specifically Vedere Labs, Forescout's in-house threat research team, during his Forescout tenure (Aug 2022 – Oct 2023). Fair to name Vedere Labs directly as a source of threat intel he worked with.
+- This is real, hands-on threat-intel-to-detection-engineering integration work, not pure CTI research/OSINT/attribution analysis — frame it as "threat intel integration for detection engineering," a strong bridge for Threat Intelligence Engineer / Detection Engineer roles that blend the two disciplines, without overstating it as primary threat-actor-tracking/research experience.
+
 ### GenAI / LLM Applications for Security (NOT on current resume — differentiator, especially for security-AI hybrid roles)
 - Prompt engineering for security use cases: analyzing security data, identifying false positives, generating new detection content/rules
 - Using GenAI to interact with SIEM APIs for detection-content orchestration across many customers and SIEM platforms
