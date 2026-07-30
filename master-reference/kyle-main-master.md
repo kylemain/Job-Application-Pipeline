@@ -103,8 +103,27 @@ Provided analytical support/guidance to Information Security teams. Analyzed lar
 
 ## Complete Skills Inventory
 
+### Elasticsearch — deep, cross-employer experience (confirmed 2026-07-30 — underrepresented on current resume, surface prominently for any ES/ELK-based role)
+Elasticsearch is not just "on the ELK Stack list" — it's been the core detection/analytics platform across almost Kyle's entire career, and should be called out as its own headline skill rather than folded into a generic ELK bullet:
+- **DOE NNSA Security Data Integration (SDI):** the entire platform Kyle built from scratch — ingesting CrowdStrike, Suricata, and Zeek — was Elasticsearch-based, including the UEBA detection layer, custom dashboards, and data-quality monitoring built directly on top of ES.
+- **CISA CDM at DOE:** data ingestion and data-quality work was also within an Elasticsearch (and Splunk) environment.
+- **Trend Micro/Cysiv next-gen SIEM:** the in-house SIEM Cysiv built as a startup was itself built on Elasticsearch/Kibana — Kyle developed detection rules and queries directly against ES indexes as core detection content, not just pipeline/ingestion work.
+- Across these three engagements, Kyle has hands-on experience with ES cluster-facing detection content development (queries/rules against indexes), data modeling/CIM design on top of ES, Beats-based log collection into ES, and dashboarding/alerting on ES data — the full lifecycle, not just log shipping.
+- **Specific confirmed ES skills (confirmed 2026-07-30 — call these out explicitly, don't just say "Elasticsearch"):**
+  - **ES queries** — writing and tuning Elasticsearch queries (Query DSL) directly against indexes for detection/investigation use
+  - **ES transforms** — building Elasticsearch transforms to reshape/aggregate data as a foundation for detection content (used this for the UEBA layer at DOE/NNSA SDI)
+  - **Logstash** — parsing and normalization; built 50+ Logstash filters standardizing raw log data before indexing
+  - **ES Beats** — deployed multiple different Beats types for log collection (not just one generic "Beats" claim — Kyle has hands-on experience configuring and deploying several Beats variants across these environments)
+  - **Detection rules in ES** — wrote and managed detection rules/alerting logic natively in Elasticsearch (e.g., Elastic Security detection rules / Watcher-style alerting), not just Kibana dashboards
+  - **ES API** — hands-on use of the Elasticsearch API directly (querying, index/cluster management, integrating ES into the broader detection-as-code tooling), not only through the Kibana UI
+  - **Kibana dashboarding** — built custom Kibana dashboards and visualizations on top of ES data/transforms (the custom dashboards at DOE/NNSA SDI were Kibana-based), not just querying/alerting
+- Treat any company built on or heavily using Elasticsearch (Elastic itself, or any vendor/employer running an ES-based SIEM/security-analytics stack) as a strong-fit target — this is a real differentiator, lead with it when the JD mentions Elasticsearch, ELK, or Elastic Security. When tailoring a resume/cover letter for an ES-heavy JD, name the specific sub-skills above (queries, transforms, Logstash, Beats, native ES detection rules, ES API) rather than the generic "ELK Stack" bullet — this is exactly the granularity Kyle flagged as missing from his current resume.
+
+### Cribl (confirmed 2026-07-30 — NOT on current resume)
+Hands-on experience creating and managing Cribl pipelines — real, direct experience with Cribl's observability/data-routing pipeline product, not just adjacent Logstash/data-engineering work. Fair to claim directly; surface prominently for any role at Cribl itself or any employer using Cribl in its data/security pipeline stack.
+
 ### Core Detection Engineering / SIEM (on resume)
-- ELK Stack (Elasticsearch, Logstash, Kibana, Beats)
+- ELK Stack (Elasticsearch, Logstash, Kibana, Beats) — see expanded Elasticsearch section above for the full depth of this experience
 - Splunk
 - MITRE ATT&CK
 - Security detection content development (signature, statistical, behavioral, ML-based)

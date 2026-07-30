@@ -1,0 +1,44 @@
+Staff Security Engineer - SecOps & Threats — 6sense
+https://to.indeed.com/aaxvkgxrjvsf
+Location: Seattle, WA listed, but posting explicitly tagged "#Li-remote" in the body — confirmed remote.
+Salary: $231,089.25–$265,930.90 base, well above the $170K+ floor.
+
+Fit assessment: Strong — 7/10. Core JD ask (building security tools/automation, SIEM/SOAR/AWS, MITRE ATT&CK, log analysis, mentoring) maps directly onto Kyle's nine-SIEM orchestration framework, 2,300+ ATT&CK-mapped detection rules, and Tenable vulnerability-data-into-SIEM analytics work.
+
+Honest gap (not surfaced in the cover letter, noted here for Kyle's awareness):
+- JD requires "2+ years of experience conducting adversary emulation exercises" as a stated (not preferred) qualification. This is a real gap — Kyle's background is defensive/detection engineering, not offensive/red-team emulation. Flagged in ats_notes.md and interview_prep.md; not claimed anywhere in the resume or cover letter.
+- Preferred certs (CISSP/CISM/GIAC) not held — Kyle has Splunk certs instead. Preferred only, not blocking.
+
+Not yet submitted — built for Kyle's review as part of the 2026-07-29 job-search scan.
+
+SUBMITTED 2026-07-29 via Indeed Smart Apply (smartapply.indeed.com). Confirmation shown on-page:
+"Your application was submitted to 6sense" + email confirmation to main.kyle87@gmail.com.
+
+Gotchas encountered and fixed during submission:
+- Stale resume auto-attached at the resume-selection step (an unrelated older "Senior Data Engineer"
+  resume from a prior application) — fixed via "Resume options" -> "Upload a different file" -> used
+  `find` tool to get the real file-input ref (clicking the visible button directly opens an
+  unclickable native picker) -> `file_upload` with that ref + the correct 6sense-tailored PDF.
+- A screener question ("Have you personally built or maintained security automation in a cloud
+  environment...") had defaulted to "No" from a carried-over prior answer despite being a strong,
+  confirmed match — corrected to "Yes." Indeed's "answered based on your previous responses"
+  carryover feature can silently import wrong answers; verify every pre-filled screener answer
+  individually, don't trust the default.
+- Voluntary self-identification radios (Disability status, Veteran status) appeared to be set via
+  `form_input` with value "true" but the UI never actually reflected the selection (silent no-op on
+  these particular custom radio components) — caught by screenshot-verifying after the fact, fixed
+  via direct coordinate clicks instead. Race/Ethnicity and Gender fields (a custom combobox and a
+  radio group respectively) worked fine via direct click. Lesson: for this ATS's self-ID radios,
+  don't trust form_input's return value as confirmation — always screenshot-verify the actual
+  selected state.
+- On the final Review page, an optional "Add supporting documents" -> "Write a cover letter" text
+  box was PRE-FILLED with a completely unrelated, stale cover letter (mentioning "flexEngage" and
+  "Cysiv" in a different context) carried over from some earlier, unrelated application in Kyle's
+  Indeed history — same bug class as the resume-carryover and screener-answer-carryover issues above.
+  A plain click + ctrl+a + type did NOT clear the old text; it merely prepended the new text before
+  the stale text. Fix: used `javascript_tool` to grab the native HTMLTextAreaElement value setter,
+  call it directly with the correct full cover-letter text, then dispatch `input` and `change` events
+  manually. This is the same reliable pattern as the Ashby email-retype-and-blur fix — always assume
+  Indeed's answer/text carryover features can inject wrong content, and always screenshot-verify
+  after any fix on a pre-filled field, since even ctrl+a/select-all can fail silently on these custom
+  form widgets.

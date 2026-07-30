@@ -1,0 +1,56 @@
+Senior Detection Engineer — Fluidstack
+https://jobs.ashbyhq.com/fluidstack/eb9896cb-9012-4d80-8eee-c4b5ed78b6bd
+Location: New York, NY; Austin, TX; San Francisco, CA; Seattle, WA — Location Type: On-site. No "U.S. Remote"
+tag on this listing at all (unlike the Staff Detection Engineer req at the same company, which does list U.S.
+Remote alongside the same "not a remote position" application-form language). Kyle is aware of Fluidstack's
+in-person requirement from the Staff Detection Engineer application submitted 2026-07-30 and has decided to
+proceed anyway given fit and expected compensation.
+
+Salary: $147,000–$182,000/year. Bottom of band is below Kyle's $170K floor; top of band clears it. Kyle's own
+call: given 8 years of experience and breadth of skills (nine-SIEM orchestration, MITRE ATT&CK coverage,
+GenAI tooling), he'd expect to land at or near the top of this range if an offer were made — proceeding on
+that basis rather than the band's midpoint.
+
+Fit assessment: Strong — 7.5/10. This req is nearly identical in scope to the Staff Detection Engineer req at
+the same company (same team, same "Security & Corp IT" department, overlapping JD language), just leveled down
+with a lower salary band. Core JD asks map directly onto confirmed experience: own the detection engineering
+program end to end (threat modeling, detection design, deployment, tuning) mapped to MITRE ATT&CK → Kyle's
+2,300+ detection rules covering most of the MITRE ATT&CK matrix at Trend Micro/Cysiv; detection-as-code
+pipelines with version control, tests, and peer review → nine-SIEM Python orchestration framework with GitLab
+CI/CD, automated tests, and staged rollout; SIEM/EDR pipeline health (log source onboarding, normalization,
+alert quality) → 220+ log source data engineering, Common Information Model, connector/collector health
+monitoring; "knows the difference between a noisy rule and a broken one" → explicitly tracks and tunes on
+coverage/precision/false-positive-rate metrics rather than guessing.
+
+Honest gap (not surfaced in the cover letter, noted here): the JD asks for "run threat hunts against real
+adversary behavior... and convert findings into repeatable detections." Kyle's confirmed experience is
+threat-intel-informed detection tuning and CTI-based validation of whether an alert reflects real adversary
+activity during triage/false-positive analysis — a genuine, hands-on bridge between threat intel and detection
+engineering, but not the same as running proactive, structured threat-hunting campaigns against live adversary
+behavior. Framed honestly in the resume/cover letter as "threat intel-informed investigation," not claimed as
+formal threat hunting.
+
+Fluidstack is not on Kyle's company exclusion list (already confirmed for the Staff Detection Engineer
+application). Not a federal contracting role. On-site/no-remote-tag noted above, not auto-disqualified since
+Kyle explicitly asked to proceed knowing this.
+
+Package built 2026-07-30 at Kyle's explicit request after he reviewed the fit-screening summary for all open
+Fluidstack Security & Corp IT roles and decided this one was worth applying to despite the below-floor bottom
+of the salary band, given his expected leveling at the top of the range.
+
+RESOLVED / SUBMITTED 2026-07-30
+Submitted via Ashby: https://jobs.ashbyhq.com/fluidstack/eb9896cb-9012-4d80-8eee-c4b5ed78b6bd/application
+On-page confirmation: "Success — Your application was successfully submitted. We'll contact you if there
+are next steps."
+
+Form details: Name/Email filled and re-verified (proactive retype+blur fix applied to Email field before
+submit, per established Ashby pattern). Resume attached: Kyle_Main_Fluidstack_SeniorDetectionEngineer_2026-07-30.pdf.
+Travel = Yes. Relocation = Yes. Office Location = Austin, TX (no remote option offered, consistent with the
+Staff Detection Engineer req at this company). Work authorized = Yes. Visa assistance needed = No.
+Non-compete = No. Start date = Two weeks. Free-text "something you've built" answer described the DOE/NNSA
+security data platform build. "How did you hear about this opportunity" = Job Board (Indeed, Glassdoor, etc.)
+— caught and corrected a misclick on "Fluidstack Recruiter" during filling (page had scrolled slightly between
+actions) before final submission.
+
+Same standard application-limit banner language seen on the Staff Detection Engineer req was present again;
+did not block submission.

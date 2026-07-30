@@ -1,0 +1,51 @@
+Staff Detection Engineer — Fluidstack
+https://www.dice.com/job-detail/a2060926-f14b-49a0-a387-c98440461209
+Also listed on ZipRecruiter (same posting, different tracking URL) and Fluidstack's own careers page.
+Location: "Remote in New York, NY, US" per Dice header, but the listing simultaneously displays a "Full Time / On-site" badge — ambiguous, worth confirming remote status directly if Kyle proceeds.
+Salary: $224,000–$275,000/year — well above the $170K+ floor.
+
+Fit assessment: Strong — 7/10. Core JD asks (build detection-as-code pipelines so every detection is versioned/tested/deployed like software; build detection coverage across AWS/GCP/Azure + endpoint telemetry; run incident response end-to-end without a large SOC; automate triage/enrichment in Python) map directly onto Kyle's nine-SIEM detection-as-code orchestration framework, GitLab CI/CD practice, 220+ log source telemetry engineering, and Treasury SOC incident support.
+
+Honest gaps (not surfaced in the cover letter, noted here):
+- JD implies solo/lean ownership of a security function ("without heavy management overhead," "without a large SOC to fall back on") at a fast-moving AI infrastructure startup. Kyle's ground-up build experience (DOE/NNSA Security Data Integration) happened within an established consulting firm supporting a federal client, not literal one-person-security-team startup conditions. Real context difference, not fabricated in materials.
+- "Bonus" experience securing GPU clusters/HPC/physical data center infrastructure — not confirmed, not claimed.
+
+Fluidstack is not on Kyle's company exclusion list. Not a federal contracting role (private AI infrastructure company). No hard on-site/hybrid requirement stated in the JD body itself (only the ambiguous header tag noted above) — not auto-disqualified per Kyle's remote-only rule, but flagged for confirmation.
+
+Package built by the autonomous daily job-search pipeline run on 2026-07-30. Awaiting Kyle's review — not submitted.
+
+RESOLVED / SUBMITTED 2026-07-30: Reviewed with Kyle. Master reference confirms Fluidstack is not
+on the exclusion list; resume/cover letter content cross-checked accurate against master doc.
+Visual QA of rendered images (resume_page-1/2.jpg, cover_page-1.jpg) confirmed clean one-page
+formatting, no overflow.
+
+Applied via the live posting on Ashby (jobs.ashbyhq.com/fluidstack/84eec343-3c1d-4455-83bc-090e633866c4),
+reached by clicking "Apply" through the Dice listing. Kyle confirmed via a clarifying question that
+he wanted to proceed despite the location ambiguity.
+
+Important new finding: the Ashby application form itself states explicitly "Fluidstack is an
+in-person company (this is not a remote position)" and requires selecting a preferred office
+location from Austin TX / London UK / New York NY / San Francisco CA / Phoenix AZ / Seattle WA —
+no remote option, despite the Dice listing's "Remote in New York, NY" header and the Ashby posting
+page's own "U.S. Remote" location tag both suggesting otherwise. This is a stronger, unambiguous
+signal than the ambiguity originally flagged. Surfaced to Kyle before proceeding; he chose to apply
+anyway given the strong fit/salary, selecting Austin, TX (closest option to Dallas/Ft. Worth) as
+preferred office and marking open to relocation = Yes.
+
+Form used Ashby's autofill-from-resume feature (fired correctly off the merged PDF, no append-bug
+observed), applied the proactive email retype-and-blur fix before submitting per established
+practice, and answered: open to travel = Yes, open to relocation = Yes, office location = Austin TX,
+work-authorized = Yes, visa assistance needed = No, subject to restrictive covenant = No, earliest
+start = Two weeks, "how did you hear about this opportunity" = Job Board. Also answered the
+open-ended "tell us about something you've built" question with the nine-SIEM detection-as-code
+orchestration framework story (Trend Micro/Cysiv), pulled directly from confirmed master-reference
+material.
+
+Submission confirmed via on-page banner: "Success — Your application was successfully submitted.
+We'll contact you if there are next steps."
+
+Note for future ATS reference: Kyle clarified that the "solo/lean startup ownership" gap noted in
+ats_notes.md is overstated for his Trend Micro/Cysiv experience specifically — Cysiv was itself a
+startup carved out of Trend Micro, and Kyle owned detection-as-code, data pipelining, the rules
+engine, and detection content creation there directly (not just at DOE/NNSA within an established
+consulting firm). ats_notes.md gap framing corrected accordingly.

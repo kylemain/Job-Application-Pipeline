@@ -1,0 +1,62 @@
+Staff Security Engineer I, Security Operations — Etsy
+https://www.dice.com/job-detail/277c39d5-2f82-40d3-8c9b-277683cc2794
+Location: Listed as "Remote in New York, NY" — JD body clarifies candidates are considered nationwide (US), with preference given to those near the Brooklyn hub or SF/Seattle/Austin, but not required. Treated as remote-eligible.
+Salary: $204,000–$240,000, above the $170K+ floor.
+
+Fit assessment: Strong — 8/10. This is one of the cleaner matches in the pipeline — the JD explicitly calls for building/tuning/validating AI agents and automating detection/response with AI "where it multiplies impact," which maps almost exactly onto Kyle's production GenAI tooling for false-positive triage and rule generation. Also strong overlap on SIEM/SOAR/EDR/MDM, detection logic authorship, incident leadership, and mentoring.
+
+Honest gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+- JD wants 9+ years in a security role "with significant incident response experience" — Kyle has ~11 years total security-adjacent experience, but not all of it is IR-specific; his clearest IR match is the current Treasury SOC role. Framed honestly rather than claiming a decade of dedicated IR ownership.
+- OS internals, malware functionality, and persistence mechanisms — not deeply confirmed in Kyle's master reference; his depth is detection content/telemetry engineering, not host-level forensics. Not claimed on the resume.
+
+Not yet submitted — built for Kyle's review as part of the 2026-07-29 job-search scan.
+
+BLOCKED 2026-07-29: Etsy's ATS is Workday (etsy.wd5.myworkdayjobs.com), a new pattern for this
+pipeline. Live posting confirmed via the Dice "Apply" external link:
+https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Staff-Security-Engineer-I--Security-Operations_JR5636-1
+Clicked Apply -> "Autofill with Resume" journey -> landed on a mandatory "Create Account/Sign In"
+step (step 1 of 7: Create Account/Sign In, Autofill with Resume, My Information, My Experience,
+Application Questions, Voluntary Disclosures, Review). Options are Sign in with Apple/Google/
+LinkedIn (OAuth) or "Sign in with email" (which creates a password-protected Workday candidate
+account). Creating accounts and entering passwords are both hard-blocked actions I won't perform
+automatically. Needs Kyle to either sign in via one of the OAuth options himself or create the
+Workday account with an email/password, after which I can resume and complete the rest of the
+7-step flow (autofill with the tailored resume, fill My Information/Experience, answer Application
+Questions and Voluntary Disclosures per the master reference, review, and submit).
+
+RESOLVED / SUBMITTED 2026-07-29: Kyle signed into the Workday account himself. Resumed and
+completed the flow:
+
+- Resume uploaded via the "Autofill with Resume" step's file input (found via `find`, since the
+  visible button opens an unclickable native picker) -> "Successfully Uploaded!" (57.02 KB).
+- Address fields (Address Line 1, City, State, Postal Code) were NOT parsed from the resume and had
+  to be filled manually from the master reference home address. State is a native <select> requiring
+  keyboard letter-jump navigation (typed "t" twice to reach "Texas" past "Tennessee").
+- "How Did You Hear About Us?" was a two-level combobox (top-level category, then sub-option) ->
+  selected "Third-party website (Glassdoor, BuiltIn)" as the closest honest match (actually found via
+  Dice).
+- My Experience section had several resume-parsing errors caught via entry-by-entry screenshot
+  verification: Work Experience 1 Job Title was wrongly auto-suggested as "Staff Security Engineer"
+  (matching the target posting, not Kyle's real title) -> corrected to "Senior Security Engineer."
+  Work Experience 1 "From" date corrupted on first attempt (typed "10/2023" while focus was
+  ambiguous, producing "MM/1020") -> fixed by clicking directly into the MM segment and retyping
+  "102023" as one string with no slash. Work Experience 2 was a completely spurious duplicate entry
+  (Job Title "Treasury", blank Company/dates) created by the resume parser mis-splitting one bullet
+  from the Shorepoint role -> deleted outright rather than salvaged. After deleting it, the renumbered
+  "Work Experience 2" (the real Forescout role) had a blank Company field because a coordinate-click
+  queued before the delete landed on the wrong post-reflow position -> re-clicked and retyped after
+  re-screenshotting. Work Experience 3 (Trend Micro/Cysiv) and 4 (Experian) parsed correctly with no
+  edits needed.
+- Education: Degree field defaulted to "Select One" and blocked the whole My Experience step at
+  Save-and-Continue with an "Errors Found" banner -> selected "Masters" (Field of Study "Physics" had
+  already parsed correctly as a tag).
+- Application Questions: visa sponsorship No, work-authorized Yes, 60-mile-radius No (Kyle is in
+  Aubrey, TX, not near Brooklyn/SF/Mexico City/Guadalajara/Dublin), relocation-with-assistance "Not
+  Applicable" (remote role). Portfolio URL/passcode/name-pronunciation left blank (optional).
+- Voluntary Disclosures: gender identity "Cisgender Man," disability status "No, I do not have a
+  disability," race "White (Not Hispanic or Latino)," veteran status "I am not a Veteran," agreed to
+  confidentiality terms checkbox.
+- Review page: verified every Work Experience entry, Education, and the correct resume.pdf attachment
+  before submitting.
+- Confirmation: on-page "Application Submitted — Thank you for applying!" modal on Etsy's Workday
+  Candidate Home.

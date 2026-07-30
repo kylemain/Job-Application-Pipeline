@@ -2,3 +2,5 @@ Senior Security Engineer, Uppercase Research — Google
 https://to.indeed.com/aalbrb8k4l77
 
 SUBMITTED 2026-07-27 (confirmed by Kyle)
+
+STATUS UPDATE 2026-07-29: Marked "Not proceeding" on the Google Careers Applications dashboard (Kyle flagged this after noticing the review page said "Your previous application appears below. You must wait 90 days before re-applying."). No specific rejection reason given — Google Careers doesn't surface one. Given the fast turnaround (submitted 07-27, rejected by 07-29, ~2 days) this reads as an automated/recruiter-desk-reject rather than a human review past an initial screen, despite 7 of 9 keyword clusters matching directly per ats_notes.md. No action available — the 90-day re-apply window is a hard platform restriction, not a Kyle decision point.

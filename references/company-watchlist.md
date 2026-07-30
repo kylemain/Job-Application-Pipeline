@@ -22,6 +22,14 @@ data science/ML security, security engineering management/lead, and data enginee
 - Databricks — https://www.databricks.com/company/careers/open-positions
 - Snowflake — https://careers.snowflake.com/us/en/search-results?keywords=security
 
+## Elasticsearch / ES-based stack (added 2026-07-30 — strong fit, see master reference)
+Kyle has deep, cross-employer hands-on Elasticsearch experience (DOE/NNSA SDI, CISA CDM, and Trend Micro/Cysiv's next-gen SIEM were all ES/Kibana-based, including detection rules/queries written directly against ES indexes) plus hands-on Cribl pipeline experience — underrepresented on his current resume. Elastic itself and any company running an ES-based SIEM/security-analytics/data-pipeline stack should be treated as strong-fit targets; flag any posting that mentions Elasticsearch, ELK, Elastic Security, or Cribl even if the title doesn't obviously say "detection engineer."
+
+- Elastic — https://www.elastic.co/careers (Elastic Security; fully remote-first company; direct match — Kyle has built next-gen SIEM content in ES/Kibana at Cysiv and an entire ES-based detection platform at DOE/NNSA)
+- Cribl — https://cribl.io/careers/ (observability/data-pipeline company; Kyle has hands-on experience creating and managing Cribl pipelines directly)
+- Datadog — https://careers.datadoghq.com/ (Cloud SIEM/security monitoring runs on their own log pipeline, ES-adjacent skill set)
+- Chronosphere — https://chronosphere.io/careers/ (observability platform, data-pipeline overlap)
+
 ## AI Labs
 
 - OpenAI — https://openai.com/careers/search/ (search "security engineer", "detection & response"; applications go through Ashby at jobs.ashbyhq.com/openai — added 2026-07-28 after applying to two D&R reqs)
@@ -61,6 +69,35 @@ data science/ML security, security engineering management/lead, and data enginee
 - Permiso Security — https://permiso.io/careers (identity threat detection & response / ITDR, including AI agent identity security)
 - Radiant Security — https://radiantsecurity.ai/careers/ (AI-native SOC alert triage and investigation)
 - Orca Security — https://orca.security/about/careers/ (cloud security/CNAPP, agentless — Wiz competitor)
+- Fluidstack — https://jobs.ashbyhq.com/fluidstack (GPU-powered AI data center builder/operator; $830M Series A at $7.5B valuation Jan 2026, reportedly in talks for $1B more at $18B; building ~$50B of AI infra with Anthropic. Added 2026-07-30 after applying to Staff Detection Engineer. Note: postings so far require picking an in-person office location (Austin/NY/SF/Phoenix/Seattle/London) despite listing tags suggesting remote — flag this each time rather than assuming remote-eligible)
+- Hunters.ai — https://www.hunters.ai/careers (SOC platform, detection-as-code framing — direct overlap with Kyle's multi-SIEM orchestration background)
+- Query.ai — https://www.query.ai/careers/ (federated security data/threat-hunting query platform)
+- GreyNoise — https://www.greynoise.io/careers (internet-scan threat intelligence)
+- Recorded Future — https://www.recordedfuture.com/careers (threat intel, Mastercard-owned)
+- Intezer — https://intezer.com/careers/ (AI-driven detection/triage automation)
+- Netskope — https://www.netskope.com/careers
+- Proofpoint — https://www.proofpoint.com/us/careers
+- Darktrace — https://darktrace.com/careers
+- Censys — https://censys.io/careers (already saw an open Staff AppSec Engineer posting here during a scan 2026-07-30 — screen carefully, that one was a domain mismatch, but other reqs may fit better)
+- Chainguard — https://www.chainguard.dev/careers (seen during a scan 2026-07-30 — supply-chain/AppSec focus, screen for detection-specific reqs specifically)
+- Axonius — https://www.axonius.com/careers (asset intelligence/attack surface management, same category as Armis)
+- Obsidian Security — https://www.obsidiansecurity.com/careers (SaaS security posture/detection)
+- Material Security — https://material.security/careers
+- Push Security — https://pushsecurity.com/careers
+
+## Fintech / Crypto Security
+
+- Coinbase — https://www.coinbase.com/careers (remote-first, strong in-house security/detection team)
+- Chainalysis — https://www.chainalysis.com/careers (blockchain-specific detection/threat intel)
+- TRM Labs — https://www.trmlabs.com/careers (blockchain intelligence)
+
+## Broader Remote-First Tech (screen for specific security-eng/data-eng reqs, not every open role)
+
+- GitLab — https://about.gitlab.com/jobs/all-jobs/ (fully remote; has an in-house security team)
+- Cloudflare — https://www.cloudflare.com/careers/jobs/
+- Confluent — https://careers.confluent.io/
+- Reddit — https://www.redditinc.com/careers
+- Stripe — https://stripe.com/jobs/search
 
 ## Maintenance notes
 

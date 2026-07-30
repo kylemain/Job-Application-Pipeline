@@ -1,0 +1,91 @@
+Security Software Engineer II, Detection and Response — Pinterest
+https://www.dice.com/job-detail/5a11c89e-ec48-4933-8540-4fb36d447129
+Location: Listed as "Remote in San Francisco, CA" — JD confirms in-office requirement is only 1-2 times every 6 months and the role "can be situated anywhere in the country." Treated as effectively remote.
+Salary: $123,696–$254,667 (unusually wide band — likely spans multiple internal levels). Top of range well above the $170K+ floor; bottom of range is below it. Anchor negotiation to the top third given the Staff-level scope of actual duties described.
+
+Fit assessment: Strong — 7.5/10. Direct hands-on overlap on building alerts/automation, managing/onboarding logging pipelines, SIEM query writing for threat hunting, threat intel consumption, and — notably — the JD's explicit call for AI-augmented workflows with "critical evaluation of AI-assisted work," which matches Kyle's production GenAI tooling built and validated against real analyst judgment before trusting output.
+
+Note on title/level: "Security Software Engineer II" reads as a mid-level title, but the salary band and actual duties described (logging pipeline ownership, threat hunting, AI-augmented detection engineering) overlap heavily with Kyle's Staff/Senior-level target scope. Worth confirming actual leveling directly with the recruiter if this proceeds.
+
+Honest gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+- OS internals depth (macOS/Linux/Windows persistence, privilege escalation) — not deeply confirmed; Kyle's strength is telemetry/detection-content engineering, not host-level forensics.
+- Osquery specifically — not a named tool in Kyle's confirmed experience.
+
+Not yet submitted — built for Kyle's review as part of the 2026-07-29 job-search scan.
+
+BLOCKED 2026-07-29: Live posting confirmed via the Dice "Apply" external link, which resolves to
+Pinterest's own careers site with an embedded Greenhouse application form:
+https://www.pinterestcareers.com/jobs/8015490/security-software-engineer-ii-detection-and-response/?gh_jid=8015490
+This is a new ATS sub-pattern for this pipeline: an iframe-embedded Greenhouse form that is FULLY
+opaque to the accessibility tools, unlike other iframe-embedded Greenhouse forms handled previously
+(e.g. Instacart, HubSpot) where the `find` tool could still reach in. Here, both `read_page` and
+`find` stop at the iframe boundary (the page's accessibility tree ends at a generic "Greenhouse Job
+Board" node with no children), and a direct JS check confirms the iframe is genuinely cross-origin
+and inaccessible: `Blocked a frame with origin "https://www.pinterestcareers.com" from accessing a
+cross-origin frame.` Also tried navigating directly to the underlying standalone board URL
+(https://job-boards.greenhouse.io/pinterest/jobs/8015490) to bypass the iframe entirely, per the
+"Standalone Greenhouse" pattern that normally has full read_page/form_input support — Pinterest
+redirects/canonicalizes that URL straight back to the branded pinterestcareers.com embed, so this
+workaround doesn't apply here.
+
+Contact fields (First Name, Last Name, Email, Country +1, Phone) were filled in successfully via
+direct coordinate clicks (the form itself IS clickable/typeable via computer-use, just not
+inspectable/uploadable via find/read_page/file_upload). Caught and fixed the familiar Greenhouse
+autofill-append bug on the Email field (came back "main.kyle87@gmail.commain.kyle87@gmail.com"
+after typing) via triple-click + Delete + retype.
+
+The Resume/CV and Cover Letter fields both use an "Attach" button that, per the file_upload tool's
+own guidance, must never be clicked directly because it opens a native OS file picker with no
+programmatic path in — but the normal fallback (locating the underlying file input via `find` and
+calling `file_upload` with its ref) is not available here since `find` cannot see anything inside
+this specific iframe. This needs Kyle to click "Attach" (and "Attach" under Cover Letter) himself and
+select the files from the native picker — same precedent as the DeepMind resume-upload step Kyle
+completed manually. Tailored files ready at:
+Resume: 2026-07-29_Pinterest_Security-SWE-II-DR/resume.pdf
+Cover letter: 2026-07-29_Pinterest_Security-SWE-II-DR/cover_letter.pdf
+(or the merged Kyle_Main_Pinterest_SecuritySWE-II-DR_2026-07-29.pdf if the form only has one slot)
+After Kyle attaches both files, I can resume filling any remaining Application Questions/Voluntary
+Disclosures and submit.
+
+RESOLVED (files) / NEW BLOCKER 2026-07-29: Kyle attached both resume.pdf and cover_letter.pdf
+himself - confirmed visible in the form with delete (X) icons next to each. LinkedIn Profile,
+Website, Work Experience: Current/Previous Employer, and Education: Last University Attended
+fields are all optional (no red asterisk) - left blank rather than risk further misfires (see
+below).
+
+However, three REQUIRED custom dropdown/combobox fields on this same form do not respond to any
+coordinate click at all - no visible focus state, no options panel opens, nothing:
+  - "What U.S State do you currently reside in?" *
+  - "Are you legally authorized to work in the country in which you are applying for a position?" *
+  - "Will you now or in the future require employer sponsorship..." *
+Tried clicking the field body, the "Select..." text, and the dropdown arrow icon directly - no
+response in any case, confirmed via immediate re-screenshot after each attempt. Also tried the
+`find` tool as a fallback (this worked for reaching file inputs in other Greenhouse iframe embeds
+like Instacart/HubSpot) - it returned only a generic "Locations" filter combobox from the job-search
+page chrome, confirming this specific pinterestcareers.com Greenhouse embed is genuinely opaque to
+both `read_page` and `find`, consistent with the earlier file-upload blocker, but now confirmed to
+extend to interactive form controls beyond file inputs (plain text inputs like Name/Email/Phone
+did work via direct coordinate click in this same embed, so it's specifically the custom
+select/combobox components that are unreachable).
+
+Needs Kyle to fill these three required dropdowns himself: State = Texas, work-authorized = Yes,
+sponsorship-required = No. There's also a "How did you first hear about this opportunity?" dropdown
+(optional, no asterisk) that can be left blank or set to something like "Dice" if Kyle wants it
+filled. After these are set, I can resume to check for any remaining fields and complete
+submission.
+
+RESOLVED / SUBMITTED 2026-07-29: Kyle filled State/work-authorization/sponsorship himself. Resumed
+and found the Gender/Race/Ethnicity/Veteran Status/Disability Status EEO comboboxes further down the
+form DID respond to direct coordinate clicks (unlike the three dropdowns above) - set Gender = Male,
+Race/Ethnicity = White, Veteran Status = "I am not a protected veteran," Disability Status = "No, I
+don't have a disability." Also discovered mid-flow that the contact fields (First Name, Last Name,
+Country, Phone) had reverted to blank at some point after the earlier session's manual fill (Email
+was still populated) - refilled First Name (Kyle), Last Name (Main), Country (United States +1), and
+Phone (469-545-3791) via direct coordinate click + type, confirmed via screenshot before submitting.
+Clicked "Submit application." Post-submit, the entire embedded form (all fields, the reCAPTCHA badge,
+the Submit button) vanished from the page - `get_page_text` and `find` cannot see inside this
+cross-origin iframe (consistent with the earlier file-upload blocker), so had to manually scroll
+through the full page to locate the confirmation, which sits directly below the JD text in a small
+white card: "Good news: your application is in! Thank you for your interest in a career at
+Pinterest." with "View more jobs at Pinterest" and "Back to job post" links. This confirms successful
+submission.

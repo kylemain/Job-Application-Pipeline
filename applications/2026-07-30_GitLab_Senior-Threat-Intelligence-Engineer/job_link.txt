@@ -1,0 +1,42 @@
+Senior Threat Intelligence Engineer — GitLab
+https://job-boards.greenhouse.io/gitlab/jobs/8631175002
+Location: Remote, Canada; Remote, India; Remote, US — fully remote, no office requirement found.
+
+Salary: $140,000–$200,000/year (US range). Bottom of band is below Kyle's $170K floor; top clears it well.
+Flagged — not a clean pass on salary, but not disqualifying given the role's other merits.
+
+Fit assessment: Moderate/stretch — 4.5/10. Kyle asked to build this package anyway after reviewing the scan
+summary, understanding the gaps below.
+
+Direct matches: this is the strongest CTI-specific role Kyle has been screened against. His confirmed
+"Threat Intelligence Integration" experience (master reference) is a real, hands-on match for the JD's core
+theme — using threat intel to drive proactive security decisions rather than passively consuming feeds. At
+Forescout, Kyle used CTI from Vedere Labs (Forescout's in-house threat research team) directly during alert
+triage/false-positive analysis to validate real adversary activity, then fed that back into detection tuning —
+this is a genuine, hands-on precedent for the "close the loop from intelligence to detection" theme the JD
+emphasizes. Python automation and detection-as-code experience (nine-SIEM orchestration, GitLab CI/CD) are
+also strong, confirmed matches, and Kyle's deep Elasticsearch background is a bonus given GitLab's own
+detection tooling.
+
+Honest gaps (not surfaced in the cover letter, noted here):
+1. The JD wants a "seasoned Threat Intelligence Engineer" to be the SOLE dedicated member of GitLab's TI
+   function, administering an existing Threat Intelligence Platform (TIP — e.g., MISP, OpenCTI, Anomali,
+   ThreatConnect) including ingesting/exporting threat feeds. Kyle has never administered a dedicated TIP —
+   his CTI experience is using intel sourced by others (Vedere Labs) to inform his own detection/triage work,
+   not owning the ingestion/feed-management platform itself. This is a real capability gap, not just framing.
+2. The JD wants OSINT-based adversary research using "structured analytical techniques" — i.e., formal threat
+   actor tracking/attribution work. Kyle's experience is threat-intel-informed detection tuning and validation,
+   not primary threat research/attribution. This is the same "bridge skill, not primary research" distinction
+   noted on the Fluidstack and other detection-engineering applications.
+3. Malware reverse engineering (macOS/Linux, code-repository-delivered malware) is listed as "optional but
+   valuable" in the JD, not required — Kyle has no confirmed RE experience, but this doesn't appear to be a
+   hard gate given the JD's own phrasing.
+4. Scope note: this is a solo-ownership function ("you'll be the sole dedicated member of this team"). Kyle
+   has real solo/startup-style ownership experience elsewhere (e.g., the Cysiv detection-as-code buildout,
+   the DOE/NNSA platform build from scratch), so solo ownership itself isn't the issue — the specific TIP-
+   administration and OSINT-attribution scope of this particular solo function is the gap, not the "solo"
+   part.
+
+Not on the exclusion list. Not a federal contracting role. Fully remote — no location conflict.
+
+Package built 2026-07-30 at Kyle's explicit request after reviewing the scan summary and this fit assessment.
