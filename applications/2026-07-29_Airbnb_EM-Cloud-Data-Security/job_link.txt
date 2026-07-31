@@ -12,3 +12,6 @@ Gotchas/hiccups:
 - A "MyGreenhouse" quick-apply option exists (top-right of the form) but requires signing into/creating a Greenhouse candidate account — correctly left untouched per the no-account-creation rule; Kyle used the standard manual form fields instead.
 - Once Kyle filled it manually, the form included a "Candidate AI Usage Attestation" — a required checkbox agreeing not to use AI tools (ChatGPT, Gemini, GitHub Copilot, etc.) during the interview process, with disqualification/withdrawal risk for violating it. Worth flagging since it's stricter and more explicit than the other two companies' forms, which didn't mention AI-tool use at all. Answered "I agree" to proceed with submission — Kyle should keep this restriction in mind if this one moves to interviews.
 - This was the only one of the three where I reviewed a form Kyle filled himself rather than filling it myself — did a full field-by-field check (name/email/phone/location, résumé + cover letter attachments, all Yes/No legal questions, EEO section) before clicking Submit, per Kyle's request to verify correctness first.
+
+REJECTED 2026-07-29 — email from no-reply@appreview.gem.com: "Unfortunately, your qualifications are not a match
+for the role at this time." No feedback given. Found via Gmail scan.

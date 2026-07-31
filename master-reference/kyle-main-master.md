@@ -42,6 +42,9 @@ To add a company: Kyle can just say so at any point ("add X to the exclusion lis
 - No security clearance requirement is a plus signal, not a hard requirement — but a *cleared, on-site, agency-embedded* role should be flagged as likely a poor culture/pace fit.
 - No confidentiality masking needed anywhere — Kyle has no NDAs or IP restrictions from past employers. All employer names, agency names (DOE, CISA, NNSA, Treasury), and project names can be referenced freely in resumes and cover letters.
 
+## LinkedIn (search-only account)
+Kyle created a LinkedIn account solely for job searching with Claude — do not add, edit, or fill in any additional profile information on it beyond what's already there. LinkedIn is a valid source for discovering postings (search, filter to Remote, pull JD text), but **never submit an application via LinkedIn Easy Apply.** When a promising posting is found on LinkedIn, find and apply through the employer's own careers site / actual ATS (Greenhouse, Ashby, Workday, etc.) instead — treat the LinkedIn listing as a lead to route elsewhere, the same way a Dice or ZipRecruiter listing gets routed to the real posting.
+
 ## Formatting Rules
 - One-page resume by default (senior IC/lead roles — density matters more than exhaustive history; older/less relevant roles get compressed).
 - Reverse chronological.

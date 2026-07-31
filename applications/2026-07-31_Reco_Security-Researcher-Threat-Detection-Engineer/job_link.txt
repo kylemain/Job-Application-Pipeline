@@ -1,0 +1,79 @@
+Security Researcher (actual scope: Threat Detection Engineer) — Reco
+
+Found via LinkedIn ("cybersecurity" + Remote + Mid-Senior search, page 1, 2026-07-31), listed under the generic
+title "Security Researcher." The LinkedIn listing did not disclose salary and its own posted location tag read
+"Wilmington, DE / Remote." Traced through to Reco's own careers site (reco.ai/careers) and their Comeet ATS to
+confirm the live posting and pull the full JD directly, since LinkedIn's own JD text was thin.
+
+Live posting (Reco's own Comeet ATS): https://www.comeet.com/jobs/reco/3A.00D/security-researcher-1089f/9B.D6B
+Location per Reco's own posting: "US (Remote)" — no Wilmington/DE-specific or hybrid language anywhere in the
+employer's own JD text. Full-time.
+
+Salary: UNDISCLOSED on both LinkedIn and Reco's own posting. No band given anywhere. Flagged to Kyle before
+building; Kyle explicitly said to build the package anyway ("build the package for reco").
+
+Company: Reco — SaaS/AI security company (SSPM, identity/access governance, shadow SaaS + shadow AI discovery,
+threat detection & response for SaaS environments). Not on the exclusion list (Sophos, Binary Defense, Shorepoint,
+Dropzone AI).
+
+Fit assessment: Strong — 8/10. This is a genuine Threat Detection Engineer role wearing a "Security Researcher"
+title. JD explicitly asks for:
+- 5+ years cybersecurity, SOC/SIEM/Threat Intelligence/Cloud Security background — Kyle has 11.
+- Large-scale security log processing, anomaly detection, behavioral analytics — direct match to Cysiv/Forescout
+  EDA-at-scale (GCP Dataproc/PySpark) and time-series anomaly detection work (auth-attempt anomalies, process-chain
+  behavioral analysis).
+- SQL for querying/correlating security events (JD calls out ClickHouse as an example, not a hard requirement) —
+  Kyle has confirmed SQL, not ClickHouse specifically; resume/cover letter only claim SQL, not ClickHouse, per the
+  master reference's rule against inventing unconfirmed tools.
+- Familiarity with SIEM/XDR (Splunk, Sentinel, Chronicle) "and their role in modern detection engineering" — near
+  word-for-word match to Kyle's multi-SIEM orchestration differentiator (Splunk, Microsoft Sentinel, Google SecOps/
+  Chronicle are all explicitly in his confirmed platform list).
+- False-positive reduction / detection-rule tuning — this is Kyle's core signature differentiator across every
+  past role, surfaced prominently in both resume and cover letter.
+- Identity-based attacks / insider threats / SOC detection methodologies — mapped to his authentication-behavior
+  anomaly detection work (auth attempts by country, anomalous volume/attempt patterns).
+
+Honest gap (not surfaced to the employer, noted here for Kyle's awareness): the role is specifically framed around
+SaaS-application security data (OAuth risk, IdP misconfigurations, shadow IT, third-party app integrations) rather
+than Kyle's actual data sources (EDR/network/auth telemetry via Elasticsearch/Splunk). The underlying detection-
+engineering discipline (correlate heterogeneous sources, reduce false positives, time-series/behavioral anomaly
+detection, SIEM/XDR platform fluency) transfers directly and is real, but Kyle has no hands-on experience with
+SaaS-specific security data sources (Okta/Entra logs, OAuth grant telemetry, SSPM tooling) — resume/cover letter
+lean on the transferable discipline honestly rather than claiming direct SaaS-security-tool experience he doesn't
+have. Also no advantage-tier items claimed (SSPM/CASB frameworks, Okta/Azure AD/Google IAM hands-on identity-
+provider security) since none are confirmed in the master reference.
+
+Remote: confirmed fully remote (US), no hybrid/relocation language anywhere in Reco's own posting.
+Federal contracting: none — private VC-backed SaaS security startup.
+
+Package built 2026-07-31 at Kyle's explicit request ("build the package for reco") after being shown the
+undisclosed-salary flag and the SaaS-data-source gap above.
+
+Not yet submitted — sitting in this folder for Kyle's review/go-ahead to apply. When applying, use the live
+Comeet URL above (not the LinkedIn listing) — Reco's own Comeet ATS is the actual application destination;
+LinkedIn's "Easy Apply" would need separate handling if Kyle wants to use it instead.
+
+BLOCKED then RESOLVED 2026-07-31: Initial attempt via the live Comeet/Spark Hire ATS form (embedded directly on
+the job posting page) got as far as filling name/email/phone via coordinate-click + type, but could not attach
+the resume/cover letter — this is a fully opaque cross-origin "Spark Hire" widget with zero accessibility-tree
+exposure (confirmed via read_page filter:all showing only an unexpandable generic "Job Application form" node,
+and a direct JS check showing 2 iframes on the page, both blocking contentDocument access with a cross-origin JS
+error). Unlike the HubSpot-style Greenhouse iframe case elsewhere in this pipeline, `find` could not locate the
+file input at all, so file_upload had no ref to target, and clicking "Attach Resume" produced no visible in-page
+change (likely an OS-native file picker outside the browser tab). Reported the blocker to Kyle rather than
+guessing further.
+
+Kyle attached resume.pdf and cover_letter.pdf himself directly in the open browser tab. Verified both attachments
+visible in the form (resume.pdf, cover_letter.pdf) via screenshot, then did a full top-to-bottom re-verification
+of every field (First name: Kyle, Last name: Main, Email: main.kyle87@gmail.com, Phone: 469-545-3791, Resume and
+Cover Letter both attached, Portfolio/Personal note left blank as optional) before clicking Submit Application.
+
+SUBMITTED 2026-07-31 via Reco's own Comeet/Spark Hire ATS. Confirmed via on-page "Thank you Kyle! Your
+application has been submitted. Good luck!" message — genuine confirmation text, not just an assumed success.
+
+ATS note for future reference: Comeet/Spark Hire-powered career pages (this one embedded directly on
+comeet.com/jobs/... rather than a separate subdomain) can be a fully opaque cross-origin iframe with no
+accessibility-tree exposure at all — worse than the HubSpot Greenhouse case. Plain form fields (text/email/phone)
+are still reachable via coordinate-click + type despite this. File attachment fields are not reachable via
+find/read_page/file_upload on this tenant; if this ATS type recurs, plan on asking Kyle to complete the file
+attachment step manually rather than spending time on further workarounds.

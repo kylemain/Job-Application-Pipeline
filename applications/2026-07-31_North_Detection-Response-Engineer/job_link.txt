@@ -1,0 +1,63 @@
+Detection and Response Engineer — North (payments/fintech)
+Found via LinkedIn (search-only account, "Detection As Code" + Remote query, 2026-07-31). Original LinkedIn
+listing does not get applied to directly — per Kyle's standing rule, route to the employer's own careers site/ATS.
+Live listing: check north.com careers page directly for the current req (do not use LinkedIn Easy Apply).
+
+Salary: $100,000-$145,000/year. Well below Kyle's $170K floor — top of the band doesn't even clear it.
+
+Location: Remote, "applicants located in the East and Central time zones will receive preferred consideration" —
+Kyle (Dallas/Ft. Worth, Central) fits this preference cleanly. No sponsorship available (not a factor for Kyle).
+
+Fit assessment: Excellent skills match, weak comp — 7/10 on fit, hard fail on salary. Built at Kyle's explicit
+request (2026-07-31 live session) despite the below-floor salary, which he was told about clearly before building.
+
+Direct matches: this is one of the closest JD-to-skills matches found all week. All four of the JD's core areas
+map directly: detection engineering (SIEM/NG-SIEM content, MITRE ATT&CK gap analysis) = Kyle's 2,300+ rule build
+at Cysiv; incident response (triage, root-cause, IOC documentation) = Treasury SOC support; "AI-Enabled SOC"
+(evaluating/piloting LLM tools for alert triage and analyst workflows, explicitly naming Claude Code/Gemini
+CLI/Codex as reference tools) = Kyle's confirmed production GenAI-for-security tooling, a near word-for-word hit;
+automation (SOAR, Python scripting) = Kyle's multithreaded SIEM-API orchestration in Python.
+
+Honest gaps (not surfaced in the cover letter, noted here):
+1. PCI-DSS: JD lists "working knowledge of PCI-DSS or a comparable compliance framework" as a required
+   qualification. Not confirmed anywhere in Kyle's skills inventory — not claimed in the resume/cover letter.
+2. Salary: the disclosed band tops out well below Kyle's floor even at the top of the range. Kyle was told this
+   plainly before the build; he chose to proceed anyway.
+
+Not on the exclusion list. Not a federal contracting role (North is a private payments/fintech company).
+
+Package built 2026-07-31 at Kyle's explicit request ("build North"), despite the clear below-floor salary.
+
+SUBMITTED 2026-07-31 — applied via North's own Workday tenant (nabancard.wd1.myworkdayjobs.com), req JR101907.
+Kyle created the Workday candidate account himself (account creation is not something Claude does on his behalf);
+Claude completed the rest of the application after he confirmed the account was ready. On-page confirmation:
+"CONGRATULATIONS! Your application has been successfully submitted."
+
+Notable answers: "How did you hear about us" = LinkedIn (accurate — routed here per the standing rule, not applied
+via LinkedIn Easy Apply). Salary expectation field (required) = $145,000 — Kyle's explicit choice, top of North's
+disclosed $100K-$145K band, rather than his real $170K floor, to avoid an early screen-out; he was asked directly
+before this was entered. EEO/self-ID answers (ethnicity, gender, Hispanic/Latino, veteran, CC-305 disability) all
+pulled directly from the master reference, not guessed. Home address (5829 Humber Ln, Aubrey, TX 76227) was
+provided by Kyle live since it wasn't previously on file — now also in the master reference.
+
+Technical notes for future Workday-tenant applications: this is a standalone Workday careers site (distinct from
+the Etsy Workday tenant and the Oracle Cloud HCM pattern already documented) — required account creation before
+reaching the application form (blocked Claude, Kyle created it himself), then a 6-step wizard (My Information /
+My Experience / Application Questions / Voluntary Disclosures / Self Identify / Review). Workday's native select
+dropdowns respond to type-ahead-by-first-letter (e.g. press "m" repeatedly to cycle MA/MS, "b" to cycle BA/BS) —
+faster and more reliable than scrolling a listbox that has its own internal scroll separate from the page.
+Multi-select "Field of Study" boxes require pressing Return after typing to trigger the actual filtered search
+results (typing alone just showed the full unfiltered alphabetical list). A recurring dark rectangular overlay
+artifact intermittently covered parts of the form (same class of issue documented for Oracle Cloud HCM) but
+never blocked a click here.
+
+Live listing found: North's careers site (north.com/company/work-with-us/careers) routes to a standalone Workday
+tenant at nabancard.wd1.myworkdayjobs.com (North's legal entity is NorthAB, LLC / North American Bancard).
+Confirmed listing: "Detection and Response Engineer," US-Remote, JR101907, posted 8 days ago — matches this
+package exactly (same title, same "East and Central time zones preferred" language).
+
+BLOCKED 2026-07-31 — Workday requires creating an account (email + password, with password-complexity rules)
+before the actual application form (My Information / My Experience / etc.) can even be reached. Account creation
+is outside what I'll do on Kyle's behalf per standing rule — same blocker hit previously with Etsy's Workday
+tenant. Application not submitted. Kyle needs to either create the account himself and hand off from there, or
+do the full application manually. Live link: https://nabancard.wd1.myworkdayjobs.com/en-US/nab/job/US---Remote/Detection-and-Response-Engineer_JR101907

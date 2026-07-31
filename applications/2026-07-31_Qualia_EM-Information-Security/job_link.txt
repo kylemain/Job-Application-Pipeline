@@ -1,0 +1,33 @@
+Engineering Manager, Information Security — Qualia
+https://to.indeed.com/aamd79kc6kpq
+
+Location: Austin, TX. JD states "we're open to exploring remote possibilities for qualified candidates" —
+not a guaranteed fully-remote offer, worth confirming early. Other Qualia offices: San Francisco, CA; Concord, NH.
+
+Salary: $130,887.07–$189,743.63/year. Bottom is below Kyle's $170K floor, top clears it well.
+
+Fit assessment: Moderate — 5/10. Built at Kyle's explicit request (2026-07-31 live session) after the daily
+scan flagged it.
+
+Direct matches: player/coach detection engineering + SIEM/log monitoring role with an explicit, prominent ask
+for AI-assisted triage/investigation/response automation ("make automation and AI-assisted workflows the
+default... every engineer covers more surface area with higher signal") — a direct, strong hit on Kyle's
+confirmed GenAI-for-security tooling (production automation for false-positive triage, detection-rule
+generation, cross-SIEM rule conversion at Trend Micro/Cysiv). Also strong on hands-on IAM (AWS/GCP), SIEM/
+Elasticsearch detection-content depth, and incident-response support (Treasury SOC).
+
+Honest gap: the JD's one explicit hard requirement is "2+ years managing or formally leading a security
+engineering or security operations team." Kyle has team-lead experience directing sprint priorities for
+Treasury SOC's detection/alerting backlog, but has never held a formal management title, owned headcount, or
+run hiring/performance-review responsibility. This is the same category of gap flagged on several other
+management-titled roles this week (Airbnb EM Cloud & Data Security, Reverb Security Engineering Manager,
+Confluent Sr. Manager D&R, Apollo.io EM, Aircall EM, Bugcrowd Product Security EM, Arctic Wolf Mgr, Zscaler
+Mgr) — real leadership evidence, not a formal management title. Also: no confirmed CISSP/GIAC certs (nice to
+have, not required), no confirmed SOC 2/ISO 27001 control-ownership experience, no confirmed formal
+incident-commander ownership (real IR support experience, narrower scope), and the salary bottom sits below
+Kyle's floor.
+
+Not on the exclusion list. Not a federal contracting role. Location flagged above (Austin-based, remote
+"possible" per JD, not confirmed).
+
+Package built 2026-07-31 at Kyle's explicit request ("build the Qualia one").

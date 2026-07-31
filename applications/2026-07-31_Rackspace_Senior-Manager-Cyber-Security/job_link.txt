@@ -1,0 +1,74 @@
+Senior Manager, Cyber Security - US — Rackspace Technology
+Found via LinkedIn (search-only account, "cybersecurity" + Remote + Mid-Senior query, 2026-07-31). Original LinkedIn
+listing does not get applied to directly — per Kyle's standing rule, route to the employer's own careers site/ATS.
+
+Salary: $148,011-$217,082.80/year (geographic band). Clears Kyle's $170K floor comfortably at the top and midpoint.
+
+Location: San Antonio, TX is the anchor office (hybrid 2 days/week if local), but JD explicitly states "If located
+outside of San Antonio, TX you may work 100% remotely." Kyle (Dallas/Ft. Worth) is outside San Antonio — fully
+remote applies cleanly, no hybrid conflict.
+
+Fit assessment: Good but not clean — 6/10. Built at Kyle's explicit request after he was told about the one real
+gap up front (2026-07-31 live session).
+
+Direct matches: this role leads a "newly created observability and vulnerability management team" responsible for
+security engineering, detection engineering, vulnerability management, SIEM/SOAR integrations, and validating that
+security tools are correctly deployed/tuned/producing expected telemetry. This maps closely to Kyle's real
+differentiators: founding-engineer buildout of Cysiv's SIEM from scratch, the nine-platform detection-as-code
+orchestration framework (automated testing, staged rollout, formal coverage/false-positive-rate tracking — directly
+mirrors the JD's "assess whether tools are... tuned appropriately and delivering intended security outcomes"), and
+vulnerability data engineering (Tenable ingestion + analytics content, the differentiated angle vs. plain scanner
+administration, which speaks directly to the JD's vulnerability-management-lifecycle ask).
+
+Honest gap (not surfaced in the cover letter, noted here):
+1. Formal people management: JD requires "4+ years of relevant technical management experience" and describes
+   leading/directing technical teams. Kyle's confirmed experience is technical team-lead/sprint-lead work directing
+   delivery (confirmed in master reference) — real, but he has never held a formal management title or owned direct
+   reports. This is the one hard-requirement gap on the posting; framed honestly in the resume/cover letter as
+   team-lead/sprint-lead "directing delivery," never as formal management, per the master reference's explicit
+   instruction not to claim a management title or headcount that doesn't exist. Kyle was told about this gap
+   plainly before the build and chose to proceed anyway.
+2. Degree field: JD asks for "Bachelor's degree in computer science, engineering, or related technical discipline."
+   Kyle's B.S./M.S. are both Physics — a quantitative technical science, reasonably read as "a related technical
+   discipline," but not an exact CS/engineering match. Minor soft gap, not flagged as disqualifying.
+3. Certifications: CISSP/CISM/CRISC/OSCP/GPEN listed as "desirable," not held — not claimed anywhere in the resume.
+
+Not on the exclusion list. Not a federal contracting role (Rackspace is a private multicloud managed-services company).
+
+Package built 2026-07-31 at Kyle's explicit request ("build the rackspace package"), after he was shown the
+management-experience gap and asked to confirm.
+
+SUBMITTED 2026-07-31 via Rackspace's own Workday tenant (rackspace.wd1.myworkdayjobs.com), applied directly through
+the employer's careers site, not LinkedIn Easy Apply. Job_Application_ID=0e6d3671aff09001f63ab65729890000.
+Live posting URL: https://rackspace.wd1.myworkdayjobs.com/en-US/External/job/US-TX-San-Antonio-SAT8/Senior-Manager--Cyber-Security---US_R-23557-1
+
+Technical notes on this Workday tenant, for future reference:
+- Unlike North's and Etsy's Workday tenants, this one does NOT require account creation before reaching the
+  application form -- it goes straight to an "Autofill with Resume / Apply Manually / Use My Last Application" modal.
+- 7-step wizard: Autofill with Resume -> My Information -> My Experience -> Application Questions ->
+  Voluntary Disclosures -> Self Identify -> Review.
+- Resume-parser artifact: a bullet describing the Treasury SOC (TSSOC) sub-project under the Shorepoint role was
+  misparsed into a bogus 5th "Work Experience" entry with a blank Company/Location/dates (titled "Treasury"). Deleted
+  it; remaining entries renumbered correctly.
+- After deleting the bogus entry, Shorepoint's (Work Experience 1) actual Role Description field came back blank
+  ("No Response") -- caught this on the Review page and had to go back through the wizard (Back x4) to My Experience
+  to refill it manually before resubmitting. Always spot-check every Role Description field individually after any
+  entry deletion, not just the entry counts/titles.
+- Date field for the CC-305 Self-Identification form uses a masked MM/DD/YYYY input that mis-parses a plain
+  "07/31/2026" typed string (fills as "07/DD/3120"). Fix: click the field, Ctrl+A, Delete, then type digits only
+  ("07312026") -- the mask correctly auto-formats digit-only input.
+- The Review page's "Please check one of the boxes below" (disability status) radio and the Date field both
+  silently reset to blank/error after navigating Back through the wizard and Next-ing forward again once already
+  (a stale-validation-state quirk) -- re-verify and re-select on every pass back through Self Identify before
+  clicking Next again, don't assume a value that was correct on a previous pass is still set.
+- Review page's "My Experience" section visually renders only Work Experience 1 in the summary (jumps straight
+  from Work Experience 1's Role Description to the Education section) even though Work Experience 2-4 are present
+  and correct in the underlying form data (confirmed via get_page_text on the My Experience step itself, showing
+  all 4 entries intact with correct titles/companies/dates/descriptions). This looks like a Review-page display-only
+  quirk specific to this tenant, not actual data loss -- don't panic-resubmit if this shows up again, but do
+  independently verify via the My Experience step's own page text before trusting the Review summary.
+- No email verification code step after Submit on this tenant (unlike Uber's Oracle HCM flow) -- the on-page
+  "Congratulations! Your application has been successfully submitted." modal is the actual confirmation.
+- Post-submit, an optional account-creation modal appears (email pre-filled, password fields) offering to let the
+  candidate track application status. Skipped -- creating a password is outside scope per standing policy on
+  credential entry; Kyle can create this account himself later if he wants to track status.

@@ -1,0 +1,49 @@
+Staff Detection and Response Engineer — Spotnana
+Found via LinkedIn (search-only account, "Detection As Code" + Remote query, 2026-07-31). Original LinkedIn listing
+does not get applied to directly — per Kyle's standing rule, route to the employer's own careers site/ATS. Live
+listing: https://www.spotnana.com/careers/careers-listing/ (Spotnana's own ATS — verify the live req link before
+submitting; do not use LinkedIn Easy Apply).
+
+Salary: $150,000-$190,000/year + equity. Bottom sits below Kyle's $170K floor, top clears it.
+
+Location: Office hub is Palo Alto or NYC. JD contains genuinely contradictory language: "you will be required to
+be in office 1+ days per week in alignment with our office work policy" immediately followed by "This role is also
+eligible for 100% remote work." Not resolved by the JD text alone — worth confirming directly with the recruiter
+before/during the interview process rather than assuming either reading.
+
+Fit assessment: Strong — 7/10. Built at Kyle's explicit request (2026-07-31 live session, following the LinkedIn
+scan).
+
+Direct matches: JD's core ask is detection-as-code in a CI/CD or Git-based workflow with automated tests and
+staged rollout — this is close to a word-for-word match to Kyle's nine-SIEM orchestration framework built at
+Trend Micro/Cysiv (GitLab CI/CD, automated tests, staged/safe rollout, formal coverage/false-positive-rate
+tracking). MITRE ATT&CK mapping, custom SIEM/EDR detection authoring (CrowdStrike, Elastic ES|QL are named in the
+JD and both directly confirmed), and incident investigation/triage are all strong hits.
+
+Honest gaps (not surfaced in the cover letter, noted here):
+1. Programming language: JD asks for "intermediate or above" Python OR Go. Kyle's confirmed proficiency is Python
+   only — Go is not in his confirmed skills inventory and was not claimed anywhere in the resume/cover letter.
+2. "Incident commander" capacity: JD wants experience "in both responder and commander capacities." Kyle's
+   confirmed experience is supporting incident investigation/response for a live SOC, not formal incident-command
+   ownership — framed honestly in the resume as "supports incident investigation and response," not as IC duties.
+3. Location/hybrid ambiguity: see above — a real risk of a mismatched expectation if it turns out the in-office
+   day is enforced regardless of location.
+
+Not on the exclusion list. Not a federal contracting role.
+
+Package built 2026-07-31 at Kyle's explicit request ("build Spotnana"), alongside North and a check confirming
+Snowflake's identical posting was already built and submitted 2026-07-29.
+
+SUBMITTED 2026-07-31 — applied via Gem ATS (jobs.gem.com), the same platform embedded on Spotnana's own careers
+page (routed there per the LinkedIn search-only rule, not via LinkedIn Easy Apply). On-page confirmation:
+"Congratulations! Your application for Staff Detection and Response Engineer has been received!" Declined the
+"Save your information in Gem" prompt shown after submission (would create a standing Gem profile — not
+requested/authorized).
+
+Technical note: Spotnana's careers page embeds the Gem application form via a genuinely cross-origin iframe —
+read_page/find could not see into it from the parent page. Worked around by extracting the iframe's src attribute
+(via javascript_tool: document.querySelectorAll('iframe')) and navigating directly to that URL as a top-level
+page. LinkedIn URL field on this Gem form requires actual URL format ("N/A" was rejected with "Please enter a
+valid LinkedIn URL") — used Kyle's real search-only LinkedIn profile URL (read directly from his own logged-in
+profile page, not fabricated). Also note: standard scroll/scroll_to actions did not visually progress this page;
+window.scrollTo() via javascript_tool worked when the computer tool's scroll did not.

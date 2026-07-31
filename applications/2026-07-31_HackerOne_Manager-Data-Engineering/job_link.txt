@@ -1,0 +1,40 @@
+Manager, Data Engineering — HackerOne
+https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618
+
+IMPORTANT: Posting lists "Deadline to Apply: July 31, 2026 at 5:59 PM CDT" — same day this package was built.
+If Kyle wants to submit, it needs to happen today.
+
+Location: Listed "Remote" but JD explicitly states it's "targeted for candidates within ~50 miles of Boston,
+Austin, or Washington DC" for occasional in-person collaboration. Kyle is based in Dallas/Ft. Worth, outside
+all three hub radii — real geographic-fit risk despite the Remote label.
+
+Salary: $170,000-$205,000/year + equity. Bottom clears Kyle's $170K floor cleanly.
+
+Fit assessment: Weaker than average — 3/10. Built at Kyle's explicit request (2026-07-31 live session,
+following up on the watchlist scan's flag).
+
+Direct/adjacent matches: Kyle's Common Information Model build at Trend Micro/Cysiv (a company-wide data
+dictionary standardizing schema across 220+ ingested sources) is a real, strong analog to the JD's "source of
+truth data marts" ask, even though it wasn't branded that way. Cloud-based big-data pipeline experience (GCP
+Dataproc/Dataflow, PySpark, Apache Beam) and SQL are also solid matches. Team-lead experience (Treasury SOC
+sprint-priority direction) offers some leadership signal.
+
+Honest gaps (not surfaced in the cover letter, noted here):
+1. Tool-stack mismatch: JD's minimum qualifications require "extensive experience" with Airflow, Snowflake,
+   Meltano, Fivetran, and DBT — none of these are in Kyle's confirmed skills inventory. Same category of gap
+   that failed the LeafLink Staff Data Engineer screen on 07-30 ("real tool-stack mismatch, not just adjacent
+   framing").
+2. Leadership bar: JD requires "at least 3+ years in a leadership role" as a stated minimum, not preferred.
+   Kyle's team-lead/sprint-direction experience may not clearly clear this explicit bar — a harder ask than the
+   management-experience gaps flagged on other roles this week (e.g., Qualia's "2+ years").
+3. Domain/specialization shift: role wants an Analytics Engineer / BI Engineer background building data marts
+   for business stakeholders (Salesforce, Workday, Gainsight referenced as source systems) — Kyle's background
+   is security-telemetry/SIEM-ingestion-flavored data engineering, a genuinely different specialization, not
+   just different terminology.
+4. Location: see above — "targeted" hub proximity despite the Remote label.
+
+Not on the exclusion list. Not a federal contracting role.
+
+Package built 2026-07-31 at Kyle's explicit request ("build HackerOne — Manager, Data Engineering"). Given the
+number of real gaps here relative to other builds this week, and the same-day application deadline, this is
+one where Kyle should decide deliberately whether to actually submit rather than defaulting to yes.
