@@ -38,3 +38,11 @@ Not on the exclusion list. Not a federal contracting role.
 Package built 2026-07-31 at Kyle's explicit request ("build HackerOne — Manager, Data Engineering"). Given the
 number of real gaps here relative to other builds this week, and the same-day application deadline, this is
 one where Kyle should decide deliberately whether to actually submit rather than defaulting to yes.
+
+SUBMITTED 2026-07-31 via Ashby, same day as the stated deadline. Resume autofilled name/email/location
+correctly; phone/zip filled manually. Work authorization=Yes, sponsorship=No. EEO voluntary survey completed
+per master reference (Male, White, not Hispanic/Latino, not veteran, no disability); sexual-orientation
+question in HackerOne's extended diversity survey answered "prefer not to answer" since not part of Kyle's
+confirmed EEO profile. Confirmed via on-page "Success" banner. (Note: this SUBMITTED line was missing from
+job_link.txt in a prior session despite the application being completed — confirmed via seen_jobs.log line 178
+and backfilled here 2026-08-02 for record consistency.)

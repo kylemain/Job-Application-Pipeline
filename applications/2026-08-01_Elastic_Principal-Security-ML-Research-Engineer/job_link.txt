@@ -1,0 +1,15 @@
+Principal Security ML Research Engineer — Elastic
+https://jobs.elastic.co/jobs/engineering/united-states/principal-security-ml-research-engineer/8079632
+
+BLOCKED 2026-08-02 — hard iframe automation wall, needs Kyle to complete manually. jobs.elastic.co
+embeds the actual Greenhouse application form (gh_jid=8079632) inside a cross-origin iframe. Typed
+text into First/Last Name/Email fields did not register (fields stayed blank on screenshot
+verification). Confirmed via document.activeElement: click correctly focuses the iframe element,
+but synthetic keystrokes don't route into its internal inputs. find tool also could not see any form
+fields inside the iframe (unlike some other embedded-Greenhouse sites where find can reach through).
+Same category of hard block as Airbnb and Cribl's Greenhouse-embedded careers pages — not a fixable
+technique issue. Kyle needs to open this link and complete the application manually. Resume/cover
+letter package is fully built and ready at this folder's merged PDF.
+
+SUBMITTED 2026-08-02 — Kyle completed this application manually in his own browser using the
+copy-paste reference values and merged PDF provided, working around the iframe automation wall above.

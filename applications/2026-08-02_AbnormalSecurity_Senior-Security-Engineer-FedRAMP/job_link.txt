@@ -1,0 +1,42 @@
+Senior Security Engineer, FedRAMP — Abnormal Security
+https://abnormal.ai/careers/jobs/7655130003?gh_jid=7655130003
+
+Location: Remote — USA. Salary: $153,000 – $220,000 USD base. Bottom sits below Kyle's $170K floor, top clears
+it comfortably — anchor to top third if it gets to that stage.
+
+Fit assessment: 7/10. Found during a 2026-08-02 scan of Abnormal's live careers page (requested by Kyle after
+seeing the ML Engineer II confirmation email) — not part of the original 2026-08-01 batch.
+
+Flagged per master reference's no-federal-contracting-roles rule: this role is built entirely around
+Abnormal's FedRAMP-authorized "Abnormal Gov" environment (NIST 800-53 controls, continuous monitoring,
+3PAO-audit support). Kyle explicitly confirmed he wants to proceed anyway, specifically because of an unusually
+strong clearance/federal-experience match — highest-scoring borderline candidate found in this scan.
+
+Strong overlap: Kyle's active Top Secret (Treasury, current), DOE Q, and Public Trust (DOE) clearances are the
+single biggest differentiator for this specific req. Direct SecOps/incident-response overlap via the current
+Treasury SOC (TSSOC) engagement — SOC detection/alerting content creation supporting live incident response and
+case work. DOE's CISA CDM program is a real federal continuous-monitoring precedent, conceptually close to
+FedRAMP's ConMon requirement. Real CI/CD ownership via the multi-SIEM detection-as-code GitLab pipeline
+(automated testing, staged/safe rollout, rule-quality metrics), plus API token/role/permission governance across
+SIEM platforms and Cloud IAM work in AWS/GCP — covers the access-management ask.
+
+Real gaps (not surfaced in the cover letter, noted honestly in ats_notes.md): no confirmed NIST 800-53 control
+implementation experience specifically; no confirmed patch management or hardened-image ownership (a documented
+gap in the master reference); no confirmed deep Infrastructure-as-Code/Change Control Board process ownership
+beyond the detection-as-code CI/CD pipeline itself; no confirmed 3PAO audit support experience.
+
+Resume and cover letter both call out all three sequential Shorepoint federal projects by name (CISA CDM at DOE,
+DOE/NNSA Security Data Integration, Treasury SOC/TSSOC) and lead with the Security Clearances section per
+Kyle's explicit request. Not on the exclusion list (Shorepoint itself is excluded as an employer to apply to,
+but referencing past work performed there is fine per the master reference).
+
+Package built 2026-08-02. Kyle confirmed go-ahead to apply.
+
+BLOCKED 2026-08-02 — same hard iframe automation wall confirmed on abnormal.ai for the earlier ML Engineer II
+application: the form renders visually but synthetic keystrokes don't route into it. Confirmed via
+document.activeElement returning {"tag":"IFRAME","isIframe":true}. Kyle needs to open this link and complete
+the application manually — same pattern he already worked around once at this same employer.
+
+SUBMITTED 2026-08-02 — Kyle completed this application manually in his own browser using the copy-paste
+reference values and merged PDF provided, working around the iframe automation wall above.
+

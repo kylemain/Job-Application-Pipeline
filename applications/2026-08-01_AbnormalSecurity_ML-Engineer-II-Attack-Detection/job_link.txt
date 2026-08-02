@@ -1,0 +1,19 @@
+Machine Learning Engineer II, Attack Detection — Abnormal Security
+https://abnormal.ai/careers/jobs/7612697003
+
+Salary: $160,700-$231,000 USD. Bottom sits below Kyle's $170K floor, top clears it well.
+Export Compliance Notice on the posting: role involves access to EAR-controlled technology,
+requiring government authorization eligibility. Not a federal contracting role itself, but worth
+flagging — not disqualifying, just a note.
+
+BLOCKED 2026-08-02 — hard iframe automation wall, needs Kyle to complete manually. abnormal.ai
+embeds the actual Greenhouse application form inside a cross-origin iframe. Typed text into First
+Name field did not register (stayed blank on screenshot verification). Confirmed via
+document.activeElement: click correctly focuses the iframe element, but synthetic keystrokes don't
+route into its internal inputs. Same category of hard block as Airbnb, Cribl, and Elastic's
+Greenhouse-embedded careers pages. Kyle needs to open this link and complete the application
+manually. Resume/cover letter package is fully built and ready at this folder's merged PDF.
+
+SUBMITTED 2026-08-02 — Kyle confirmed the correct posting URL (abnormal.ai/careers/jobs/7612697003)
+and completed this application manually in his own browser using the copy-paste reference values and
+merged PDF provided, working around the iframe automation wall above.

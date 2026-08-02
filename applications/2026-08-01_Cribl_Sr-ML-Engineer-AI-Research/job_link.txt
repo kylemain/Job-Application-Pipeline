@@ -1,0 +1,11 @@
+Sr Machine Learning Engineer, AI Research — Cribl
+https://job-boards.greenhouse.io/cribl/jobs/5979543004
+
+BLOCKED 2026-08-02 — same hard iframe automation wall confirmed on Cribl's other posting (Staff Security
+Operations Engineer, same tenant/wrapper). Redirects to cribl.io/job-detail/5979543004/, application form
+embedded in cross-origin iframe. Clicked First Name field and typed "Kyle" — field stayed completely blank on
+screenshot verification, confirming keystrokes don't route into the iframe. Kyle needs to complete this one
+manually too. Package (resume/cover letter) is fully built and ready in this folder.
+
+SUBMITTED 2026-08-02 — Kyle completed this application manually in his own browser using the
+copy-paste reference values and merged PDF provided, working around the iframe automation wall above.

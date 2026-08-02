@@ -8,3 +8,7 @@ Gotchas/hiccups:
 - Snowflake's careers-page "Apply Now" button redirects out to a separate Ashby-hosted board (jobs.ashbyhq.com/snowflake/...) rather than an embedded form — same ATS family as HackerOne's listing from earlier this week, and fully fillable via standard browser automation (no iframe lock, unlike Airbnb's Greenhouse embed below).
 - No EEO/gender/race/veteran/disability section anywhere on this Ashby form — Snowflake skips voluntary demographic questions entirely. Instead the form has several US export-control/legal questions: sponsorship requirement (No), prior Snowflake employment (No), current work authorization (Yes), "U.S. person" export-control status (answered "I am a U.S. person"), and an SEC/PwC auditor-independence conflict check (No — never employed by PwC). All answered directly from confirmed facts in the master reference doc.
 - "Where have you most recently worked?" free-text field auto-populated as "Shorepoint" from resume parsing — confirmed correct, left as-is, but worth double-checking this kind of auto-fill on future Ashby forms rather than assuming a blank field.
+
+REJECTED 2026-07-31 — email from no-reply@ashbyhq.com: "After reviewing your application, we have decided to
+pursue other candidates who align more closely with the role requirements." No feedback given. Found via Gmail
+scan.

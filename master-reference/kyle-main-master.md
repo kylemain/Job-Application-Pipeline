@@ -17,6 +17,9 @@ GitHub: https://github.com/kylemain (use for application forms with a dedicated 
 ## Target Positioning
 Senior Cybersecurity Detection Engineer & Data Scientist — with a secondary, equally valid lane as a **Data Engineer** (security-adjacent experience transfers cleanly to non-security data engineering roles).
 
+## Total Years of Experience (confirmed 2026-08-02 — get this right every time)
+Kyle's total professional experience is **12 years**, counted from his Experian start date (January 2015) through today. Do NOT undercount this by starting the clock at Trend Micro/Cysiv (2018) or by dropping Experian from the calculation — Experian is real, relevant security data science experience (DNS-based malware detection/mitigation, security log analysis for anomalous behavior) and counts fully toward total years. When a JD asks for "8+ years" or similar and Claude is tempted to mirror that number back in the resume/cover letter as if it were Kyle's actual tenure, don't — always state Kyle's real total (12 years) rather than echoing the JD's minimum-years language as a fact about Kyle. Experian should also not be silently dropped from the resume for space — it can be compressed (per the one-page/older-roles-get-compressed formatting rule below) but should still appear, since removing it both erases real experience and makes the total-years math not add up for anyone checking the resume against a stated "12 years" claim.
+
 ## Roles Currently Targeting
 - Detection Engineering / Threat Hunting
 - Security Data Science / ML for Security

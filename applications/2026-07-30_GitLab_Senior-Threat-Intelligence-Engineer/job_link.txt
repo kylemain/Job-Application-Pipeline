@@ -40,3 +40,10 @@ Honest gaps (not surfaced in the cover letter, noted here):
 Not on the exclusion list. Not a federal contracting role. Fully remote — no location conflict.
 
 Package built 2026-07-30 at Kyle's explicit request after reviewing the scan summary and this fit assessment.
+
+SUBMITTED 2026-07-30 via standalone Greenhouse (job-boards.greenhouse.io/gitlab). TIP-administration screening
+question answered honestly "No" per Kyle's accepted risk; Python-automation question answered "Yes". LinkedIn
+Profile required field had no real value (Kyle has no LinkedIn) — entered "N/A" per his explicit instruction
+rather than fabricate a URL. Confirmed via on-page "Thank you for applying to GitLab!" banner. (Note: this
+SUBMITTED line was missing from job_link.txt in a prior session despite the application being completed —
+confirmed via seen_jobs.log line 179 and backfilled here 2026-08-02 for record consistency.)

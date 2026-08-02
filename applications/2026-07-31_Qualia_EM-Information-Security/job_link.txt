@@ -31,3 +31,12 @@ Not on the exclusion list. Not a federal contracting role. Location flagged abov
 "possible" per JD, not confirmed).
 
 Package built 2026-07-31 at Kyle's explicit request ("build the Qualia one").
+
+SUBMITTED 2026-07-31 via Indeed's quick-apply flow (Apply with Indeed / smartapply.indeed.com), not the
+underlying ATS. Indeed carried over a stale resume from a prior application into the resume slot — replaced it
+with the correct merged package (Kyle_Main_Qualia_EngineeringManagerInformationSecurity_2026-07-31.pdf) before
+submitting. Screener answers: legally authorized=Yes, sponsorship needed=No, LinkedIn Profile="N/A", How did
+you hear=Indeed. EEO section pre-populated correctly from saved Indeed profile, left as-is. Confirmed via
+on-page "Your application was submitted to Qualia" plus confirmation email. (Note: this SUBMITTED line was
+missing from job_link.txt in a prior session despite the application being completed — confirmed via
+seen_jobs.log line 198 and backfilled here 2026-08-02 for record consistency.)

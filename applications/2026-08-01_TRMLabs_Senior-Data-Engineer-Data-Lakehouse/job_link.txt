@@ -1,0 +1,49 @@
+Senior Data Engineer, Data Lakehouse Infrastructure — TRM Labs
+https://jobs.ashbyhq.com/trm-labs/09fd46cf-53bd-4c68-9a85-a9605eb780d6
+
+Location: North America — Remote. No location flag; role is fully remote.
+Salary: $190,000 – $220,000 USD base (US). Both above Kyle's $170K floor — strong signal.
+
+Fit assessment: 6/10. Built following the pipeline's 2026-08-01 pre-screen (fit=6-7, queued but
+not built before session interruption). This is Kyle's secondary "Data Engineering (transferable
+outside security)" lane per the master doc's explicit target positioning.
+
+Strong overlap: GCP confirmed directly (Dataproc, BigQuery, Dataflow, GCP serverless/event-driven
+enrichment) — JD's core cloud platform is GCP end to end. Apache Beam/GCP Dataflow for historical/
+cold-storage data retrieval maps directly to "streaming/batch pipelines using GCP-native services."
+Spark/PySpark/SparkSQL confirmed (JD lists Spark as one of the acceptable query engines). Data
+pipeline building at real scale (220+ log sources across employers). Common Information Model /
+data dictionary design is a direct, honest analog to "metadata management" and "data governance."
+Kafka familiarity confirmed (JD lists Kafka as part of the GCP lakehouse stack). Python/SQL depth
+confirmed both ways.
+
+Real gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+1. No confirmed hands-on Trino, Presto, Iceberg, Hudi, Delta Lake, or StarRocks experience. The JD
+   leads with these — "design/build/optimize distributed query engines (Trino, Spark, or Snowflake)"
+   and "modern table formats: Hudi, Iceberg, or Delta Lake" are both stated requirements, not
+   nice-to-haves. Spark covers the query-engine ask; the table-format/lakehouse-catalog piece is a
+   genuine gap.
+2. No confirmed Airflow orchestration. Kyle's orchestration experience is GitLab CI/CD-based, not
+   Airflow-based. JD explicitly wants "hands-on orchestration with Airflow." Framed in materials as
+   adjacent/transferable pipeline-orchestration experience, not a direct match.
+3. No confirmed Snowflake experience (listed as one of three acceptable query engines alongside
+   Trino/Spark — Spark covers this bucket, but worth knowing Snowflake itself is unconfirmed).
+4. Security-industry domain experience (blockchain/crypto intelligence) is new to Kyle, though the
+   JD itself is a pure data-infrastructure role, not blockchain-analysis work, so this matters less
+   than it would for TRM's other reqs.
+
+Not on the exclusion list. Not a federal contracting role. Fully remote, no hybrid/relocation flag.
+
+Note: TRM Labs also has a separate open req (Staff Cyber Threat Intelligence Analyst) that was
+screened and rejected 2026-08-01 (fit=3, blockchain-intel/CTI-analyst mismatch) — this application
+is for the Data Engineer, Data Lakehouse Infrastructure req only, a different and much better fit.
+
+SUBMITTED 2026-08-02 via Ashby. Autofill from resume did not fire (no fields pre-populated after
+upload) — all fields filled manually. Work location=Dallas TX, citizenship=United States/None second,
+work-authorized=Yes, sponsorship=No, LinkedIn left blank (optional field, rejects non-URL text like
+"N/A"), current employer=Shorepoint, remote experience=Yes fully remote, comp expectations=$210,000,
+notice period=1-2 weeks, current level=Senior Level IC, on-call=Yes, no outside work commitments,
+heard of TRM=No (source=Job Board). Custom essay questions (search motivation, #1 measurable outcome,
+job search timeline, why leaving, working hours) answered with real specifics pulled from Kyle's
+Trend Micro/Cysiv Common Information Model project. Confirmed via on-page "Success — Your application
+was successfully submitted" banner.

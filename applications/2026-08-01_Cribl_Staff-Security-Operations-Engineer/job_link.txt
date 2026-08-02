@@ -1,0 +1,15 @@
+Staff Security Operations Engineer — Cribl
+https://job-boards.greenhouse.io/cribl/jobs/6097202004
+
+BLOCKED 2026-08-02 — hard automation wall, needs Kyle to complete manually. Navigating to the standalone
+Greenhouse URL auto-redirects to Cribl's own branded wrapper (cribl.io/job-detail/6097202004/), which embeds
+the actual application form in a cross-origin iframe. read_page and find could not see any form fields inside
+it. Attempted filling First/Last Name/Email/Phone/Location — all came back blank on screenshot verification.
+Diagnosed definitively via document.activeElement: clicking a field correctly focuses the iframe element
+itself, but synthetic keystrokes do not route into the iframe's internal inputs at all. This is the same
+category of hard block previously hit on Airbnb's Greenhouse-embedded careers page — not a fixable technique
+issue, a platform-level wall. Kyle needs to open this link and complete the application manually in his own
+browser. Resume/cover letter package is fully built and ready at this folder's merged PDF.
+
+SUBMITTED 2026-08-02 — Kyle completed this application manually in his own browser using the
+copy-paste reference values and merged PDF provided, working around the iframe automation wall above.
