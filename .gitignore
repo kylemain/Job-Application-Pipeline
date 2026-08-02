@@ -9,3 +9,5 @@ __pycache__/
 *.tmp
 *_page-*.png
 *_page-*.jpg
+*_check*.png
+*_check*.jpg
