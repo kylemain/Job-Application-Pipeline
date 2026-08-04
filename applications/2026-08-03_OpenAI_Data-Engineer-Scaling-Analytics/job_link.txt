@@ -1,0 +1,8 @@
+Data Engineer, Scaling Analytics — OpenAI
+https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761
+
+BLOCKED 2026-08-03 — same OpenAI/Ashby 5-per-180-day application cap that blocked the CPU & Storage req
+(see that folder's job_link.txt for the full list of Kyle's 5 counted OpenAI applications). Form was
+fully filled but Submit returned "We couldn't submit your application — Candidates may not apply more
+than 5 times in any 180 day span." Location Type on this posting is confirmed Hybrid (San Francisco).
+Retry after the 180-day window rolls off, or contact an OpenAI recruiter directly.

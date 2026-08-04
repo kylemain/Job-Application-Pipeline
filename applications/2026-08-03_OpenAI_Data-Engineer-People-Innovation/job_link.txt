@@ -1,0 +1,14 @@
+Data Engineer, People Innovation Labs — OpenAI
+https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def
+
+SUBMITTED 2026-08-03 — Ashby ATS, direct form submission (resume.pdf uploaded, autofill fired cleanly,
+no duplication). Confirmed via on-page "Success — Your application was successfully submitted" banner.
+Location confirmed HYBRID: San Francisco, Location Type "Hybrid" — matches ats_notes.md, no remote-eligible
+language found in live JD body. Screening questions "Are you able to work from our San Francisco office
+three days per week?" and "Based on this job's details, which OpenAI office/workplace could you work
+from?" answered Yes / San Francisco — this hybrid requirement was already known and documented in
+ats_notes.md before Kyle's go-ahead to build/submit this package, so proceeding with the build was treated
+as implicit acceptance per the standing judgment-call rule (rather than defaulting to remote-only "No").
+Application-limit banner ("Candidates may not apply more than 5 times in any 180 day span") was visible
+but did not block submission — informational only, first-attempt clean submit, no email false-negative
+issue encountered.

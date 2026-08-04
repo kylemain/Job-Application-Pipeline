@@ -1,0 +1,39 @@
+Sr. Data Scientist — CrowdStrike
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Engineer-Cloud--Remote-_R29100
+
+IMPORTANT — title/scope/location mismatch confirmed 2026-08-03 (read before using this package):
+The live posting at this exact URL (req R29100) is titled "Sr. Software Engineer - Cloud (Hybrid)" —
+NOT a Data Scientist role. It's a backend distributed-systems/Golang microservices engineering role on
+CrowdStrike's Risk Analytics team (building the platform behind risk-compounding/attack-path/posture-scoring
+features). Despite the URL slug saying "Remote", the live JD explicitly states: "This is a hybrid role
+requiring 2-3 days in our Sunnyvale, CA office." That directly conflicts with Kyle's remote-only standing
+rule — the original fit screen this package was built against did not catch this (its summary framed the
+role as "Remote US" data science). Flagging this prominently rather than burying it.
+
+There IS a separate, real "Sr. Data Scientist (Hybrid)" req at CrowdStrike — R29023 — on the NGSIEM Agentic
+AI team (LLM/RAG/vector-search/anomaly-detection at enterprise scale). It's also Hybrid (2 days/week,
+Sunnyvale, CA, not remote) and asks for 8+ years AI/ML specifically in cybersecurity, MS/PhD or equivalent,
+and published research/patents/thought leadership as a differentiator — an even bigger stretch past Kyle's
+applied/production ML profile than R29100. Link for reference only (not the req this package targets):
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Data-Scientist_R29023
+
+Given this, the resume/cover letter here lean on Kyle's strongest genuine overlap with R29100's actual
+mission (large-scale data pipelines + applied ML/detection content for risk-scoring context) rather than
+forcing a pure Data Scientist or a pure backend-SWE angle that doesn't match his confirmed skills inventory.
+Do not treat this as a clean remote-eligible application — confirm with a recruiter whether remote/exception
+arrangements exist for R29100 before proceeding, per the judgment-call rule for hybrid requirements
+discovered only after screening.
+
+Salary: $140,000 – $215,000 (disclosed on both R29100 and R29023). Midpoint ~$177,500 clears the $170K floor.
+Anchor to top third (~$190K+) if it gets to that stage.
+
+BLOCKED (login resolved) 2026-08-03 — Kyle has since logged into the CrowdStrike Workday account
+himself, resolving the password/account-access issue described below. Not yet attempted/resubmitted —
+session hit Anthropic's weekly usage limit (resets 2026-08-07 10:00 UTC) while working the companion
+Principal Data Engineer req first. Given the confirmed title/scope/location mismatch above (hybrid
+Sunnyvale backend SWE role, not remote Data Scientist), Kyle should re-read this whole file before
+deciding whether this one is even worth pursuing once a future session picks it back up.
+
+[Original blocker note, now resolved:] same CrowdStrike Workday account issue as the Principal Data
+Engineer req: an account already existed under main.kyle87@gmail.com from an earlier session, password
+unknown/not recorded.

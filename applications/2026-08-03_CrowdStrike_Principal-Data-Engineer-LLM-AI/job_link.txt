@@ -1,0 +1,23 @@
+Principal Data Engineer, LLM/AI Platforms — CrowdStrike
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Principal-Data-Engineer--LLM-AI-Platforms--Remote-_R28829
+
+IN PROGRESS 2026-08-03 (updated later same day) — Kyle logged into the CrowdStrike Workday account
+himself (resolving the earlier password blocker) and I resumed the in-progress application via
+"Continue Application" on the job posting. Confirmed: My Information step fully complete (How did you
+hear about us=LinkedIn, worked for CrowdStrike before=No, Country=US, name/address/phone/email all
+correct). On My Experience step, Work Experience 1 (Shorepoint, Senior Cybersecurity Engineer,
+10/2023-Present, Remote-Dallas/Ft.Worth TX, full role description) completed and confirmed correct.
+Work Experience 2 (Forescout, Senior Threat Detection Engineer and Data Scientist, Aug 2022-Oct 2023)
+was IN PROGRESS — Company field still blank and Job Title text had mistakenly landed in the Location
+field — when this session hit Anthropic's weekly usage limit (all further browser actions blocked,
+resets 2026-08-07 10:00 UTC). Resume.pdf is already uploaded and confirmed successfully. Remaining
+steps for Kyle or a future session: fix Work Experience 2 (Job Title="Senior Threat Detection Engineer
+and Data Scientist", Company="Forescout", Location="Remote - Dallas/Ft. Worth, TX", From=08/2022,
+To=10/2023, Role Description="Senior member of the data science and threat detection engineering team
+creating content to detect cyber threats in massive customer data — cloud-based big data tools,
+signature/behavioral/statistical/time-series/ML-based detection rules."), then add Work Experience 3
+(Trend Micro/Cysiv, Threat Detection Engineer and Data Scientist, Sep 2018-Aug 2022, On-site Irving TX
+— pull description from master-reference/kyle-main-master.md), then complete Education (M.S. Physics,
+University of North Texas), Application Questions 1&2, Voluntary Disclosures, Self Identify, and Review
+steps before submitting. Reference: salary band not disclosed on this req; standard EEO answers per
+master reference apply.

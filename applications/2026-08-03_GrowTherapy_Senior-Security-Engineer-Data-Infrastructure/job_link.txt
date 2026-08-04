@@ -1,0 +1,30 @@
+Senior Security Engineer, Data Infrastructure — Grow Therapy
+https://jobs.ashbyhq.com/grow-therapy/40326d35-cf61-4b93-bc39-2679c07b4332
+
+(Originally found via Dice: https://www.dice.com/job-detail/a8ab70d8-f628-4c8d-af11-7d45d6df175a — confirmed
+live on Grow Therapy's Ashby careers page 2026-08-03, JD text matches.)
+
+Location: Remote; New York City; San Francisco; Seattle. Location Type: Remote.
+Compensation: Hybrid Commitment $182,000–$250,000 USD Annually, OR Fully Remote Commitment
+$152,000–$208,000 USD Annually. IMPORTANT — Kyle wants remote: when this application form asks to select a
+work arrangement/commitment track, select FULLY REMOTE ($152K–$208K), not hybrid, even though hybrid pays
+more. Remote midpoint (~$180K) still clears Kyle's $170K floor; hybrid requires 3 days/week on-site in
+NYC/SF/Seattle which conflicts with Kyle's remote-only constraint.
+
+Fit already screened at 6/10 before this build was requested — this package was built per that pre-existing
+screen, not re-screened here.
+
+Package built 2026-08-03.
+
+SUBMITTED 2026-08-03 — Ashby form, fully automated. Confirmed via on-page "Success" message: "Thank you for
+applying. We're so glad you're interested in joining Grow Therapy...We'll be in touch about next steps."
+Uploaded resume.pdf and cover_letter.pdf separately (Ashby has distinct Resume and Cover Letter upload fields
+on this form, not a single merged-PDF field). Autofill from resume fired and correctly populated Full Name and
+Email; Phone Number and LinkedIn Profile (required field) were filled manually — used Kyle's real search-only
+LinkedIn URL (https://www.linkedin.com/in/nobody-nobody-710aa9426/). Answered "Why are you interested in
+working at Grow Therapy?" (required free-text) with a proof-point paragraph pulling from the cover letter
+(CIM/data-dictionary work, DOE/NNSA SDI platform build, Cloud IAM). EEO: Male, White (Not Hispanic or Latino),
+Not a protected veteran, no sponsorship needed, located in US. No explicit remote-vs-hybrid compensation-track
+selector appeared on this application form itself — the $152K-$208K remote band vs. $182K-$250K hybrid band
+distinction noted in ats_notes.md was informational on the Overview tab only; nothing to select. Applied the
+email retype-and-blur fix preemptively before submitting; no validation errors on first Submit attempt.

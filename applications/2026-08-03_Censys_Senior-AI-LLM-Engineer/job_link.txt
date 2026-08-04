@@ -1,0 +1,4 @@
+Senior AI/LLM Engineer — Censys
+https://job-boards.greenhouse.io/censys/jobs/8540995002
+
+SUBMITTED 2026-08-03 — standalone Greenhouse form, fully automated. Confirmed via "Thank you for applying!" confirmation page. Resume.pdf and cover_letter.pdf both uploaded. Location: Dallas, Texas, United States. Sponsorship: No. EEO: Male, not Hispanic/Latino, White, not a protected veteran, no disability. LinkedIn field (marked required despite "(Optional)" label) filled with GitHub URL (https://github.com/kylemain) since no LinkedIn URL is on file. Custom question "Give us an example of an AI service you've helped take to production" answered with a substantive GenAI/SIEM-orchestration example drawn from confirmed master-reference skills.

@@ -1,0 +1,11 @@
+Data Engineer, CPU & Storage — OpenAI
+https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37
+
+BLOCKED 2026-08-03 — form was fully filled (all fields confirmed correct: name, email, phone, resume,
+location, work-authorized, EEO answers, hybrid-office-3-days acknowledged) but Ashby's per-employer
+application cap rejected it: "We couldn't submit your application — Candidates may not apply more than
+5 times in any 180 day span." Kyle already has 5 OpenAI applications in the current 180-day window
+(2 from 2026-07-28: Detection and Response, Insider Threat D&R; 3 from today: Applied AI, Core
+Experimentation, People Innovation). This and the Scaling Analytics req are blocked by the same cap —
+Kyle needs to wait until the window rolls off his 5th most recent OpenAI submission before either can
+go through, or manually contact an OpenAI recruiter if he wants to push past the cap sooner.

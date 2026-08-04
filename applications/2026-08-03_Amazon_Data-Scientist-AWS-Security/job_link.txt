@@ -1,0 +1,25 @@
+Data Scientist, AWS Security — Amazon
+https://www.amazon.jobs/en/jobs/10435024/data-scientist-aws-security
+
+SUBMITTED 2026-08-03 — Kyle logged into his existing Amazon.jobs account himself; I completed and
+submitted the rest of the form via account.amazon.jobs/applicant/jobs/10435024/apply. Confirmed via
+"Next steps of your application" / "Thank you for applying! Your application for Data Scientist, AWS
+Security (Job ID: 10435024) has been submitted." Resume uploaded (resume.pdf). Education auto-parsed
+correctly (Master's, University of North Texas, Physics) — added "More than 3 years ago" for
+graduation timing. Job-specific skills questions: 3+ yrs SQL/Python=Yes, 3+ yrs ML/statistical
+modeling=Yes, Master's in STEM=Yes, PhD in STEM=No, ML concepts knowledge=Yes, Python/Perl/scripting
+experience=Yes, ML/data-scientist role at large tech co=No (honest — Kyle's ML/data-science work has
+been embedded in security engineering roles, not a formal title), GenAI benchmark creation
+experience=No, quantitative analysis for business decisions=Yes. Work Eligibility: previously applied
+to Amazon=Yes (pre-filled, accurate), previously employed by Amazon=No, non-compete=No, eligible to
+start immediately=Yes, needs visa sponsorship=No, lived outside US 12+ consecutive months in past 7
+years=No, government employee (current/past 3 yrs)=No, in sanctioned country=No, citizenship=United
+States, became permanent resident elsewhere since citizenship=No. Declined the optional AI
+job-search/interview-notes consent prompt ("Yes, I'm sure" / do not enable) per default privacy
+preference — this does not affect application evaluation per Amazon's own disclosure on that screen.
+FLAG FOR KYLE: this posting's location is US, MD, Annapolis Junction — near Fort Meade/NSA, and the
+Work Eligibility section asked pointed government-employment and export-control questions, suggesting
+this may be a government-adjacent or cleared-adjacent role, not a standard remote/commercial Amazon
+role. This wasn't caught as a hybrid/on-site flag during original screening. Salary floor $170K+
+(posted band $136K-$184K, already flagged low in ats_notes.md). Worth reviewing before any interview
+to confirm work-location/clearance expectations.

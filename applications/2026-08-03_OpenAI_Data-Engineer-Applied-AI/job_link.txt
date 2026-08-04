@@ -1,0 +1,23 @@
+Data Engineer (Applied AI) — OpenAI
+https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4
+
+SUBMITTED 2026-08-03 — Ashby form, fully automated. Confirmed via on-page "Success" message: "Your application
+was successfully submitted. We'll contact you if there are next steps." Autofill from resume fired and
+correctly populated Legal Name and Email; Phone, LinkedIn (used Kyle's real search-only profile URL
+https://www.linkedin.com/in/nobody-nobody-710aa9426/), start date (08/17/2026), and "Where are you currently
+located?" (Dallas,TX,US, autofilled) were confirmed/filled.
+
+LOCATION FLAG (prominent): posting is explicitly SF-HQ on-site, not remote/hybrid — "This role is exclusively
+based in our San Francisco HQ. We offer relocation assistance to new employees," confirmed again on the
+Application-tab sidebar (Location: San Francisco). Form asked directly "Are you able to work from our US
+office three days per week?" — answered YES, consistent with this being a known, already-flagged on-site
+requirement accepted before this package was built (per ats_notes.md, Kyle has said he's open to relocating
+for the right role). Also answered "open to relocating to San Francisco" in the free-text Additional
+Information field. This is NOT a remote role — flagging clearly per Kyle's standing remote-only preference,
+submitted anyway per explicit instruction.
+
+Also answered: work-authorization Yes / sponsorship No; coding-time preference 70%; technical domain "Back
+End"; years of industry experience 12 (per master ref real total, not JD's stated minimum); EEO Male / White
+(Not Hispanic or Latino) / not a protected veteran / no disability. Application-limit banner shown ("Candidates
+may not apply more than 5 times in any 180 day span") — informational only, did not block submission. Applied
+the email retype-and-blur fix preemptively before Submit; clean first-attempt submission, no validation errors.

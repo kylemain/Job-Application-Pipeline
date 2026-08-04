@@ -1,0 +1,13 @@
+Data Engineer, Core Experimentation — OpenAI
+https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe
+
+SUBMITTED 2026-08-03 — Ashby ATS, direct form submission (resume.pdf uploaded, autofill fired cleanly,
+no duplication). Confirmed via on-page "Success — Your application was successfully submitted" banner.
+Location confirmed HYBRID: posting location tag says Seattle, but JD body explicitly states "This role is
+based in Bellevue. We use a hybrid work model..." — not remote. Screening question "Are you able to work
+from our US office three days per week?" answered Yes — this hybrid requirement was already known and
+documented in ats_notes.md before Kyle's go-ahead to build/submit this package, so proceeding with the
+build was treated as implicit acceptance per the standing judgment-call rule (rather than defaulting to
+remote-only "No"). Application-limit banner ("Candidates may not apply more than 5 times in any 180 day
+span") was visible but did not block submission — informational only, first-attempt clean submit, no
+email false-negative issue encountered.
