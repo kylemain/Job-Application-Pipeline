@@ -27,12 +27,45 @@ discovered only after screening.
 Salary: $140,000 – $215,000 (disclosed on both R29100 and R29023). Midpoint ~$177,500 clears the $170K floor.
 Anchor to top third (~$190K+) if it gets to that stage.
 
-BLOCKED (login resolved) 2026-08-03 — Kyle has since logged into the CrowdStrike Workday account
-himself, resolving the password/account-access issue described below. Not yet attempted/resubmitted —
-session hit Anthropic's weekly usage limit (resets 2026-08-07 10:00 UTC) while working the companion
-Principal Data Engineer req first. Given the confirmed title/scope/location mismatch above (hybrid
-Sunnyvale backend SWE role, not remote Data Scientist), Kyle should re-read this whole file before
-deciding whether this one is even worth pursuing once a future session picks it back up.
+SUBMITTED 2026-08-07 — Kyle manually attached the resume PDF (working around the file_upload tool
+bug), then I completed the rest of the application: resume upload triggered CrowdStrike's auto-parse,
+which corrected Education 1's school to "University of North Texas" and added a new Education 2 entry
+(Ball State University B.S. Physics, 2006-2011, filled via the OTHER/typeahead-fallback pattern).
+Completed Application Questions (interest statement, work authorization=Yes/no sponsorship needed,
+no conflict of interest, AI-tools acknowledgment=Yes), Voluntary Disclosures (White, Male, Not a
+Veteran, terms accepted), and Self Identify (Kyle Main, 08/07/2026, no disability). Confirmed via
+on-page "Application Submitted" success modal. Reminder: this req is genuinely hybrid Sunnyvale, not
+remote — Kyle explicitly chose to apply anyway despite the mismatch flagged below.
+
+[Prior blocked note, now resolved:]
+
+BLOCKED 2026-08-07 (updated) — Kyle confirmed he wants to apply despite the hybrid/Sunnyvale mismatch
+above. Filled the full application via "Apply Manually" (no prior draft to autofill from): My
+Information (LinkedIn source, no prior CrowdStrike employment, Country=US, Kyle Main, 5829 Humber Ln
+Aubrey TX 76227, mobile 469-545-3791, main.kyle87@gmail.com), Work Experience 1 (Shorepoint, Senior
+Cybersecurity Engineer, 10/2023–Present, Remote-Dallas/Ft.Worth TX, full description), Work
+Experience 2 (Forescout Technologies, Senior Cybersecurity Detection Engineer, 01/2022–09/2023,
+Remote-Dallas/Ft.Worth TX, full description), Work Experience 3 (Trend Micro (Cysiv), Cybersecurity
+Engineer, 03/2019–01/2022, Remote-Dallas/Ft.Worth TX, full description), Education (School=OTHER,
+Degree=Master of Science (MS), Field of Study left blank — optional field with an unfilterable
+alphabetical list, From=2011, To=2013).
+
+REMAINING BLOCKER: same file_upload tool malfunction hit on every application this session ("paths:
+expected array, received undefined") — confirmed still broken on this fresh page/req too, tried both
+the "Select files" button ref and the file-input ref, multiple retries each. The required "Upload a
+file (5MB max)" field near the top of My Experience is empty; "Save and Continue" cannot proceed past
+this step until it's filled.
+
+RESUME NEEDED FROM KYLE: go to
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Engineer-Cloud--Remote-_R29100/apply/useMyLastApplication ,
+sign in — My Information/Experience/Education should carry over from this draft (values documented
+above if you need to re-enter). On My Experience, click "Select files" on the "Upload a file (5MB
+max)" field near the top and upload Kyle_Main_CrowdStrike_SrDataScientist_2026-08-03.pdf (merged
+resume+cover letter) from this folder, then Save and Continue, then complete Application Questions,
+Voluntary Disclosures, Self Identify, and Review before submitting. Salary band $140,000–$215,000
+disclosed; standard EEO answers per master reference apply. Remember: this req is genuinely hybrid
+Sunnyvale, not remote — see the mismatch flag at the top of this file before going further in the
+process.
 
 [Original blocker note, now resolved:] same CrowdStrike Workday account issue as the Principal Data
 Engineer req: an account already existed under main.kyle87@gmail.com from an earlier session, password

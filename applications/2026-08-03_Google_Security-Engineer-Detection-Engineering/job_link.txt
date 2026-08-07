@@ -1,2 +1,30 @@
 Security Engineer, Enterprise Detection Engineering — Google
 https://www.google.com/about/careers/applications/jobs/results/142714037728092870-security-engineer-enterprise-detection-engineering
+
+SUBMITTED 2026-08-07 (Kyle finished manually — resume upload was blocked by a tool malfunction on
+my end, Kyle uploaded resume.pdf and submitted himself). Uses Google's last available slot in its
+2-per-30-day application cap.
+
+[Prior automated notes below, kept for reference:]
+got through Role Information (Preferred Location=San Jose CA confirmed,
+work-authorization Yes/No answered correctly) and Voluntary self-identification (Male, White not
+Hispanic/Latino, not a protected veteran, no disability — all per master reference) with no issues.
+On Review, found the attached résumé was a STALE file carried over from Kyle's Google Careers
+profile from a completely different, older application (Kyle_Main_DeepMind_AgenticRedTeam_
+2026-07-29.pdf) — not this package's tailored resume. Deleted the stale file to replace it with
+this folder's resume.pdf, but the file_upload tool is currently malfunctioning (same systemic bug
+hit on the CrowdStrike application this session: "paths: expected array, received undefined" on
+every attempt, including many retries with varied paths, despite the tool working fine on
+nonexistent test filenames). Résumé field is now EMPTY (required, blocks submission) — this is a
+regression versus before I started (previously had the wrong file attached, now has none).
+
+FLAG FOR KYLE: Google enforces an app cap — banner read "You've submitted 2 applications over the
+last 30 days. You can submit up to 1 more." This Google posting will be the one that uses the last
+slot, so no other Google reqs can be submitted for ~30 days after this one goes through.
+
+RESUME NEEDED FROM KYLE: go to Google Careers > Jobs > find this posting > Apply (or resume the
+in-progress application under "Your career" > Applications), on the "Your information" step click
+Edit under Careers profile, click "Upload résumé" > "My computer", and select resume.pdf from this
+folder. Then click through Submit profile & continue > Review > Submit. All other answers
+(location, work authorization, EEO) are already filled in correctly and should carry through once
+signed back in to the same session/account.

@@ -1,6 +1,54 @@
 Principal Data Engineer, LLM/AI Platforms — CrowdStrike
 https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Principal-Data-Engineer--LLM-AI-Platforms--Remote-_R28829
 
+SUBMITTED 2026-08-07 — Kyle manually attached the resume PDF and filled Education (working around the
+file_upload tool bug), then I completed the rest: fixed Education 2's blank "School or University"
+field (resume-parse auto-added a Ball State entry with the school field empty; filled via the
+OTHER/typeahead-fallback pattern). Completed Application Questions 1&2 (interest statement, work
+authorization=Yes/no sponsorship needed, no conflict of interest, AI-tools acknowledgment=Yes, no
+accommodation needed), Voluntary Disclosures (White, Male, Not a Veteran, terms accepted), and Self
+Identify (Kyle Main, 08/07/2026, no disability — had to re-click the checkbox once after an initial
+click didn't register and blocked the first Save and Continue attempt). Confirmed via on-page
+"Application Submitted" success modal.
+
+[Prior blocked note, now resolved:]
+
+BLOCKED 2026-08-07 (updated again) — Kyle refreshed the CrowdStrike tab and re-signed into Workday a
+second time this same day; per the now-firmly-confirmed pattern, "My Information" persisted but all
+Work Experience entries and Education were wiped again on this fresh /apply URL. I rebuilt the full
+application from scratch a second time: My Information (persisted, unchanged — LinkedIn source, no
+prior CrowdStrike employment, Country=US, 5829 Humber Ln, Aubrey, TX 76227, 469-545-3791 mobile,
+main.kyle87@gmail.com), Work Experience 1 (Shorepoint, Senior Cybersecurity Engineer, 10/2023–
+Present, Remote-Dallas/Ft.Worth TX, full description), Work Experience 2 (Forescout Technologies,
+Senior Cybersecurity Detection Engineer, 01/2022–09/2023, Remote-Dallas/Ft.Worth TX, full
+description), Work Experience 3 (Trend Micro (Cysiv), Cybersecurity Engineer, 03/2019–01/2022,
+Remote-Dallas/Ft.Worth TX, full description), Education (added fresh — School="OTHER" since UNT
+wasn't in the typeahead list and Workday's own instructions say to type "Other" and hit Enter in
+that case, Degree=Master of Science (MS), Field of Study left blank — this field's list is a giant
+unfiltered alphabetical checklist that doesn't respond to typed search text, and it's not a required
+field so I left it rather than burn more time scrolling through hundreds of entries, From=2011,
+To=2013).
+
+REMAINING BLOCKER: clicking "Save and Continue" surfaced a NEW required field on this same page that
+wasn't present in earlier attempts — a top-level "Upload a file (5MB max)" resume/CV field (separate
+from Work Experience). This hit the same file_upload tool malfunction as every prior attempt today:
+"paths: expected array, received undefined" on every retry (tried both the visible "Select files"
+button ref and the underlying file-input ref, multiple times each) — confirmed still broken on this
+fresh page/ref, not fixed. The field is empty and required; "Save and Continue" cannot proceed past
+My Experience until it's filled.
+
+RESUME NEEDED FROM KYLE: go to
+https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Principal-Data-Engineer--LLM-AI-Platforms--Remote-_R28829/apply/useMyLastApplication ,
+sign in — My Information should still show complete, and if Work Experience/Education are wiped
+again, the exact values to re-enter are documented above. On the My Experience page, find the
+"Upload a file (5MB max)" field near the top (above the errors box) and click "Select files" to
+upload Kyle_Main_CrowdStrike_PrincipalDataEngineerLLMAI_2026-08-03.pdf (the merged resume+cover
+letter) from this folder, then click Save and Continue, then complete Application Questions 1&2,
+Voluntary Disclosures, Self Identify, and Review before submitting. Salary band not disclosed on
+this req; standard EEO answers per master reference apply.
+
+[Original sign-in blocker note, now resolved:]
+
 IN PROGRESS 2026-08-03 (updated later same day) — Kyle logged into the CrowdStrike Workday account
 himself (resolving the earlier password blocker) and I resumed the in-progress application via
 "Continue Application" on the job posting. Confirmed: My Information step fully complete (How did you

@@ -33,6 +33,16 @@ Kyle has deep, cross-employer hands-on Elasticsearch experience (DOE/NNSA SDI, C
 ## AI Labs
 
 - OpenAI — https://openai.com/careers/search/ (search "security engineer", "detection & response"; applications go through Ashby at jobs.ashbyhq.com/openai — added 2026-07-28 after applying to two D&R reqs)
+  **APPLICATION CAP HIT 2026-08-03 — DO NOT APPLY TO NEW OPENAI REQS UNTIL ~2027-01-24.** Kyle hit
+  Ashby's per-employer 5-applications-per-180-days cap on OpenAI's board. 5 counted applications:
+  Detection and Response (2026-07-28), Insider Threat D&R (2026-07-28), Data Engineer Applied AI
+  (2026-08-03), Data Engineer Core Experimentation (2026-08-03), Data Engineer People Innovation
+  (2026-08-03). Two more (Data Engineer CPU & Storage, Data Engineer Scaling Analytics) were fully
+  built and filled but rejected at Submit with "Candidates may not apply more than 5 times in any 180
+  day span" — see those folders' job_link.txt for details; packages are ready to submit once the
+  window clears. The rolling window frees up starting ~180 days after the oldest counted app
+  (2026-07-28 + 180 days ≈ 2027-01-24) — don't scan/build/apply to OpenAI again before that date
+  without checking with Kyle first.
 - Anthropic — https://www.anthropic.com/jobs (search "security engineer", "detection & response"; applications go through Greenhouse at job-boards.greenhouse.io/anthropic — added 2026-07-28 after applying to two D&R reqs. Note: Anthropic's security roles have consistently required 25%+ in-office time, conflicting with Kyle's remote-only rule — still worth scanning and flagging per his explicit prior decision to proceed anyway on comparable postings)
 - xAI — https://job-boards.greenhouse.io/xai (search "security engineer", "detection & response"; applications go through Greenhouse. Had an open D&R req (including a Japan-based one) as of 2026-07-27, but didn't clear the remote-only/salary-floor bars as cleanly as the OpenAI/Anthropic reqs at the time — re-check each scan since roles/locations change)
 - Google DeepMind — https://www.google.com/about/careers/applications/jobs/results?company=DeepMind (the deepmind.google/careers marketing page has no listing widget; its "View open roles" button routes here, to Google's unified careers board filtered by company=DeepMind — search/filter within this URL, not the marketing page. Checked 2026-07-29: none of DeepMind's postings offer remote work, all are Mountain View/NY/London/Zurich/Tel Aviv on-site or hybrid — re-check each scan but expect the no-remote pattern to hold)

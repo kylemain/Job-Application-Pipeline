@@ -1,2 +1,31 @@
 Senior Security Engineer, Data Security — Upstart
 https://www.dice.com/job-detail/46fe7fa9-f259-4ac9-8f09-0ca85f0ca5c1
+
+Live posting (used for this application): https://careers.upstart.com/jobs/senior-security-engineer-data-security
+The original link was a Dice aggregator listing; found the live posting on Upstart's own careers site.
+
+SUBMITTED 2026-08-07 (Kyle finished manually — resume upload was blocked by a tool malfunction on
+my end, Kyle uploaded resume.pdf and clicked APPLY himself).
+
+[Prior automated notes below, kept for reference:]
+
+IN PROGRESS 2026-08-07 — no account required, standalone application form. Filled and confirmed
+correct: First/Last Name=Kyle Main, Phone=469-545-3791 (mobile), Email=main.kyle87@gmail.com,
+Location Preference=Remote (checked — confirmed remote is a valid, listed option for this req,
+unlike the earlier Google/Salesforce postings), Have you been employed by Upstart before=No,
+How did you hear about Upstart=General online search, Sponsorship needed now or future=No, How
+familiar were you with Upstart=I learned about Upstart through this job posting or from a
+recruiter, Current location=United States, Disability status=No, Veteran status=Not a protected
+veteran, Race=White, Gender=Male. LinkedIn Profile and Website fields left blank (optional).
+
+REMAINING BLOCKER: Resume upload — required field, and the file_upload tool is malfunctioning
+session-wide (same "paths: expected array, received undefined" bug hit on CrowdStrike, Google, and
+this application — confirmed NOT specific to this page/ATS). Every other field on this form is
+filled in and correct; only the Resume file (this folder's resume.pdf) needs to be attached before
+clicking the "APPLY" submit button at the bottom of the form.
+
+RESUME NEEDED FROM KYLE: go to https://careers.upstart.com/jobs/senior-security-engineer-data-security ,
+click Apply Now!, click "Choose File" under Résumé (required) and select resume.pdf from this
+folder, then scroll to the bottom and click "APPLY". All other fields should still be filled in
+from this session if resumed in the same browser tab/session — otherwise re-enter per the values
+above.

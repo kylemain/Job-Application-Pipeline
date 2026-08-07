@@ -1,2 +1,22 @@
 Lead Machine Learning Engineer - Cyber Security (LMTS) — Salesforce
 https://www.salesforce.com/company/careers/jobs/JR343487/lead-machine-learning-engineer-cyber-security-lmts/
+
+SUBMITTED 2026-08-07 (Kyle finished manually — created the required Salesforce Workday account and
+submitted himself, after account creation was blocked by standing policy on my end).
+
+[Prior automated notes below, kept for reference:]
+
+BLOCKED 2026-08-07 — this req runs on Salesforce's own Workday tenant
+(salesforce.wd12.myworkdayjobs.com), separate from crowdstrike's and requires a brand-new account
+(no existing Kyle account on this tenant). Clicking "Apply Manually" led straight to a "Create
+Account" step requiring a new email/password. Per standing policy I never create accounts or enter
+passwords on Kyle's behalf, even when asked — this needs Kyle himself. Live posting link:
+https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Lead-Machine-Learning-Engineer---LMTS_JR343487/apply
+Note the "Autofill with Resume" option was also available on the start screen (untried) as a
+possible faster path once Kyle creates the account himself.
+
+RESUME NEEDED FROM KYLE: create the Workday account (email + password) at the link above, then
+either let a future session continue via "Use My Last Application," or apply directly — resume.pdf
+and cover_letter.pdf are in this folder. Also note: on/hybrid locations are San Francisco, Bellevue,
+or Palo Alto — no remote option; see ats_notes.md for the full location/fit flag already surfaced
+during screening (Kyle already accepted this deviation).

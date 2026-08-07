@@ -13,8 +13,8 @@ dg.add_title_line(doc, "Senior Detection Engineer — MITRE ATT&CK, Multi-SIEM D
 
 dg.add_summary(doc,
     "Detection engineer with 12 years of experience building the detection content, data pipelines, and "
-    "automation that find real threats at scale. Early hire at a next-gen SIEM startup (Cysiv, acquired by "
-    "Trend Micro/Forescout) where I built the rules engine from scratch and created/managed 2,300+ detection "
+    "automation that find real threats at scale. Early hire at a next-gen SIEM startup (Cysiv, spun out of "
+    "Trend Micro, later acquired by Forescout) where I built the rules engine from scratch and created/managed 2,300+ detection "
     "rules covering most of the MITRE ATT&CK matrix — signature, statistical, behavioral, and ML-based. Built a "
     "central Elasticsearch detection platform ingesting CrowdStrike (endpoint EDR), Suricata, and Zeek telemetry "
     "from the ground up, and run a multi-SIEM detection-as-code CI/CD pipeline with automated testing, rule-"
@@ -94,7 +94,7 @@ dg.add_cover_paragraph(cl,
     "Ft. Worth area and ready to relocate to San Jose to do this work on-site."
 )
 cl_body = (
-    "As a very early hire at Cysiv (a next-gen cloud SIEM startup, later acquired by Trend Micro and Forescout), "
+    "As a very early hire at Cysiv (a next-gen cloud SIEM startup that spun out of Trend Micro, later acquired by Forescout), "
     "I built the detection rules engine from scratch and created and managed 2,300+ individual detection rules "
     "covering most of the MITRE ATT&CK matrix — signature, statistical, behavioral, and ML-based content, all "
     "developed and tuned against massive-scale customer telemetry. That work maps directly onto this role's "

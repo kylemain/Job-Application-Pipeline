@@ -1,0 +1,33 @@
+Senior Threat Detection Engineer — Salesforce
+https://www.salesforce.com/company/careers/jobs/JR347785/senior-threat-detection-engineer/
+
+Location: Washington - Bellevue (posting also surfaced under Seattle / Virginia - McLean in search results —
+likely the same req cross-posted to multiple hub locations). No remote language on the posting itself — flagged
+per Kyle's remote-only default; he is open to relocating for the right role.
+
+Salary: Not disclosed on the Salesforce posting itself (page shows only generic benefits language). Third-party
+aggregator (Glassdoor) estimates $149,000-$224,000 for this exact req — bottom would be below the $170K+ floor,
+top clears it comfortably. Flagged as undisclosed/estimated per the salary-floor rule; confirm directly with a
+recruiter before assuming comp level.
+
+Fit assessment: Strong — 7.5/10. This is one of the closest tool-for-tool matches found in recent runs. JD asks
+for: writing detection logic on security platforms, SPL/YARAL query construction, SIEM/EDR/NDR/SOAR tooling,
+MITRE ATT&CK-based TTP awareness, log correlation and false-positive tuning, and explicitly lists Splunk,
+Elastic (ELK), and Chronicle as "even better if you have" — all directly evidenced in Kyle's background (current
+live Splunk SOC content for Treasury, native Elasticsearch detection rules built at DOE/NNSA, multi-SIEM
+orchestration including Google SecOps/Chronicle).
+
+Honest gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+- JD asks for "building attack simulation scenarios" — adversary-emulation/purple-team style testing of
+  detection logic. Kyle's confirmed experience is tuning/validating detection content against real telemetry and
+  CTI, not running structured attack-simulation exercises himself. Real but modest gap, framed honestly.
+- 6-8 years specifically in Threat Detection/Threat Hunting/Incident Response is stated as the experience bar;
+  Kyle's 12 total years include this work across multiple employers but not as a single continuous
+  threat-detection-only track record — should hold up fine given the depth, but worth being ready to walk through
+  the timeline clearly.
+- Location: Bellevue WA / Seattle / McLean VA hub, no remote option on the posting — real relocation ask.
+
+Not on the exclusion list. Not a federal contracting role (Salesforce corporate security team, not agency-embedded).
+
+Package built by the autonomous daily job-search pipeline run on 2026-08-07. Awaiting Kyle's review — not
+submitted.

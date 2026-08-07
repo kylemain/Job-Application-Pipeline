@@ -1,0 +1,31 @@
+Senior Staff Security Engineer, GCP Cyber Defense Center — Google
+https://www.google.com/about/careers/applications/jobs/results/140642070342574790-senior-staff-security-engineer-gcp-cyber-defense-center
+
+Location: Sunnyvale, CA — on-site, no remote language on the posting. Flagged per Kyle's remote-only default;
+he is open to relocating for the right role. Level: "Advanced" (Senior Staff), 10 years experience required.
+
+Salary: $262,000-$364,000 (USD) + 25% bonus target + equity + benefits. Well above the $170K+ floor.
+
+Fit assessment: Strong — 7/10. Direct match on the JD's core asks: 10 years security engineering with focus on
+incident response, threat detection, network security, and data protection maps to Kyle's Treasury SOC incident
+work, DOE/NNSA cyber-defense platform build (Elasticsearch/CrowdStrike/Suricata/Zeek), and 2,300+ MITRE
+ATT&CK-covering detection rules at Cysiv. Preferred quals calling out "applying AI/ML to solve complex security
+problems" and "detection system design, architectural patterns" line up with Kyle's GenAI-for-detection-engineering
+work and multi-SIEM detection-as-code orchestration framework.
+
+Honest gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+- This is a Senior Staff-level role explicitly asking someone to "define, own, and drive the multi-year technical
+  vision" for GCP Cloud's detection/IR capability org-wide, and to act as "a technical leader for detection
+  engineering across Google Cloud." Kyle's leadership experience is team-lead/sprint-lead scope, not
+  organization-wide technical-vision ownership at a company of Google's scale — a real seniority/scope stretch,
+  similar in kind (though narrower) to the HubSpot Principal SWE and Snowflake Principal Threat Intel stretches
+  flagged in prior runs.
+- No formal people-management title/headcount (consistent with master doc) — this role reads as IC/tech-lead
+  scope rather than management, so this is likely not disqualifying, but worth being ready to speak to directly.
+- On-site Sunnyvale with no remote option stated — real relocation ask, not a WFH arrangement.
+
+Not on the exclusion list. Not a federal contracting role (though Google does have separate cleared/Fort Meade
+listings elsewhere in its board — this specific posting is not one of them).
+
+Package built by the autonomous daily job-search pipeline run on 2026-08-07. Awaiting Kyle's review — not
+submitted.

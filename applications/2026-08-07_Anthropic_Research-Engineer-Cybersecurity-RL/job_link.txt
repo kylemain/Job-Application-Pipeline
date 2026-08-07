@@ -1,0 +1,43 @@
+Research Engineer, Cybersecurity RL (Reinforcement Learning) — Anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/5025624008
+
+Location: San Francisco, CA | New York City, NY. Hybrid — "currently expect all staff to be in one of our
+offices at least 25% of the time." Flagged per Kyle's remote-only default; he is open to relocating for the
+right role. Visa sponsorship offered (not needed by Kyle).
+
+Salary: $300,000 - $405,000 USD. Well above the $170K+ floor.
+
+Fit assessment: Moderate-strong — 5/10. This posting was initially skipped during the main daily run based on
+title alone ("research-scientist-level RL" assumption) without reading the actual JD — corrected after Kyle
+asked about it directly. The real JD explicitly recruits from security practitioners, not just ML researchers:
+"you might be... a security engineer interested in how AI could help harden systems at scale, or a detection
+and response professional wondering how models could enhance defensive workflows." Required is cybersecurity
+domain expertise plus "interest or experience" in training safe AI models (interest alone counts per the
+posting's own language) plus strong software engineering skills. "Familiarity with RL techniques and
+environments" and "familiarity with LLM training methodologies" are listed under "strong candidates may also
+have" — preferred, not required.
+
+Direct/adjacent matches: detection & response professional background (Treasury SOC, Cysiv) is explicitly named
+as a target candidate profile; genuine hands-on GenAI-for-security experience (prompt engineering for
+false-positive triage/new rule generation, GenAI-driven SIEM orchestration, GenAI-powered rule-translation
+tooling) is a real, differentiated plus against "familiarity with LLM training methodologies" and the general
+"interest/experience training safe AI models" ask; Tenable vulnerability-scan-data detection content gives some
+real connective tissue to the "secure coding and vulnerability remediation" focus area.
+
+Honest gaps (not surfaced in the cover letter, noted here for Kyle's awareness):
+- No hands-on RL experience — designing RL environments, reward modeling, or running production training runs
+  is core to the role's actual day-to-day work ("designing and implementing RL environments, conducting
+  experiments and evaluations, delivering your work into production training runs") and is not in Kyle's
+  confirmed skills inventory. This is the single biggest gap and likely the deciding factor in how competitive
+  the application is.
+- No academic research background or publication history in cybersecurity or ML — role description references
+  "academic research experience in cybersecurity" as a strong-candidate signal.
+- Kyle's software engineering depth is Python/detection-content-engineering focused, not systems/ML-infra
+  engineering depth that "delivering work into production training runs" implies.
+- Hybrid 25%-office requirement in SF/NYC — real relocation ask, no fully-remote option stated.
+
+Not on the exclusion list. Not a federal contracting role.
+
+Package built 2026-08-07 after Kyle flagged that this posting had been screened by title alone and dropped
+without a proper JD read during the daily run — corrected same-session once the actual requirements were
+pulled. Awaiting Kyle's review — not submitted.
